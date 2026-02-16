@@ -1,12 +1,12 @@
 # AI Directories
 
-An AI-agent-powered pipeline to submit your product/startup to **800+ directories** — AI tool listings, startup databases, SaaS aggregators, and general web directories.
+An AI-agent-powered pipeline to submit your product/startup to **100+ directories** — AI tool listings, startup databases, SaaS aggregators, and general web directories.
 
 Built to work with **AI coding agents** (Claude Code, Cursor, Gemini, Windsurf, etc.) as an interactive submission assistant. The agent collects your product info, generates copy variations, discovers submission forms, auto-submits where possible, and guides you through manual submissions via browser automation.
 
 ## What It Does
 
-1. **Database of 827+ directories** — Pre-catalogued with auth type, captcha detection, pricing signals, and site status
+1. **Database of 100+ directories** — Pre-catalogued with auth type, captcha detection, pricing signals, and site status
 2. **Automated analysis pipeline** — HTTP-level scanning, browser verification, form field discovery
 3. **30 unique copy variations** — Generated per product to avoid duplicate content across directories
 4. **Auto-submission engine** — Heuristic field matching fills and submits forms across hundreds of sites
@@ -26,7 +26,7 @@ Built to work with **AI coding agents** (Claude Code, Cursor, Gemini, Windsurf, 
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/ai-directories.git
+git clone https://github.com/man0l/ai-directories.git
 cd ai-directories
 
 # Create virtual environment and install dependencies
@@ -128,7 +128,7 @@ The agent reads `GEMINI.md` for instructions.
 
 ### Directory Database
 
-`directories.json` contains 827+ directories, each with:
+`directories.json` contains 100+ directories, each with:
 
 ```json
 {
@@ -262,7 +262,7 @@ ai-directories/
 ├── GEMINI.md                    # Gemini instructions
 ├── README.md                    # This file
 ├── checkpoint.md                # Progress tracking (updated by agent)
-├── directories.json             # Master directory database (827+ entries)
+├── directories.json             # Master directory database (100+ entries)
 ├── submission_plan.json         # Per-directory submission targets
 ├── browser_check_list.json      # Intermediate: browser verification queue
 ├── analyze_directories.py       # HTTP analysis pipeline
