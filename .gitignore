@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Playwright browser console logs (may contain personal data from form submissions)
+.playwright-mcp/
+
+# Product assets and submission screenshots (contain product-specific content)
+*.png
+site-image.png
+logo.png
+
+# IDE
+.cursor/projects/
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*

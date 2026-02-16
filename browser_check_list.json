@@ -1,0 +1,1484 @@
+[
+  {
+    "index": 5,
+    "name": "All Startups Info",
+    "url": "https://www.allstartups.info",
+    "error": ""
+  },
+  {
+    "index": 6,
+    "name": "All Top",
+    "url": "https://alltop.com/feed",
+    "error": ""
+  },
+  {
+    "index": 9,
+    "name": "Alternative To",
+    "url": "https://alternativeto.net",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 10,
+    "name": "AlternativeTo",
+    "url": "https://alternativeto.net",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 11,
+    "name": "American Inno",
+    "url": "https://www.americaninno.com/post-a-star",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 13,
+    "name": "Amfibi",
+    "url": "http://www.amfibi.com",
+    "error": ""
+  },
+  {
+    "index": 15,
+    "name": "Android Authority",
+    "url": "https://www.androidauthority.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 16,
+    "name": "Android Central",
+    "url": "http://www.amfibi.com",
+    "error": ""
+  },
+  {
+    "index": 18,
+    "name": "Android Police",
+    "url": "https://www.androidauthority.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 26,
+    "name": "AppAgg",
+    "url": "https://appagg.com/?hl=en",
+    "error": ""
+  },
+  {
+    "index": 27,
+    "name": "Apple Insider",
+    "url": "https://appleinsider.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 29,
+    "name": "Appolicious",
+    "url": "https://www.appolicious.com/contact-us",
+    "error": ""
+  },
+  {
+    "index": 34,
+    "name": "Apps Zoom",
+    "url": "http://appszoom.com",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "index": 38,
+    "name": "Artic Startups",
+    "url": "https://arcticstartup.com/become-a",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 40,
+    "name": "Astro Growth",
+    "url": "https://www.astrogrowth.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 52,
+    "name": "Big Startups",
+    "url": "https://biqstartups.co/overview/sub",
+    "error": ""
+  },
+  {
+    "index": 55,
+    "name": "Boing Boing",
+    "url": "https://boingboing.net",
+    "error": ""
+  },
+  {
+    "index": 56,
+    "name": "Bootstrappers",
+    "url": "https://bootstrappers.io",
+    "error": ""
+  },
+  {
+    "index": 64,
+    "name": "Capterra",
+    "url": "https://Capterra.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 67,
+    "name": "Clutch",
+    "url": "https://clutch.co/review",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 72,
+    "name": "Collaborizm",
+    "url": "https://www.collaborizm.com",
+    "error": ""
+  },
+  {
+    "index": 73,
+    "name": "Compare Software",
+    "url": "https://www.comparasoftware.com",
+    "error": ""
+  },
+  {
+    "index": 74,
+    "name": "Coop Commerce",
+    "url": "https://www.coopcommerce.com",
+    "error": ""
+  },
+  {
+    "index": 76,
+    "name": "Crowd Reviews",
+    "url": "https://www.crowdreviews.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 78,
+    "name": "Crunchbase",
+    "url": "https://www.crunchbase.com/home",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 80,
+    "name": "Designer News",
+    "url": "https://designernews.co",
+    "error": ""
+  },
+  {
+    "index": 83,
+    "name": "DevHunt",
+    "url": "https://devhunt.org",
+    "error": ""
+  },
+  {
+    "index": 90,
+    "name": "Elpha",
+    "url": "https://elpha.com",
+    "error": ""
+  },
+  {
+    "index": 95,
+    "name": "F6S",
+    "url": "https://www.f6s.com",
+    "error": ""
+  },
+  {
+    "index": 97,
+    "name": "Fast Company",
+    "url": "https://www.fastcompany.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 109,
+    "name": "G2",
+    "url": "https://g2.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 111,
+    "name": "Geekopedia",
+    "url": "https://geekopedia.me/write-for-us",
+    "error": "HTTP 526"
+  },
+  {
+    "index": 112,
+    "name": "Get App",
+    "url": "https://www.gartner.com/en/digital-marke",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 113,
+    "name": "Get Worm",
+    "url": "https://getworm.com/submit-startup",
+    "error": ""
+  },
+  {
+    "index": 122,
+    "name": "Gust",
+    "url": "https://gust.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 126,
+    "name": "Hackerspad",
+    "url": "https://hackerspad.net",
+    "error": ""
+  },
+  {
+    "index": 131,
+    "name": "Index",
+    "url": "https://index.co/companies?&",
+    "error": "<urlopen error [Errno 111] Connection refused>"
+  },
+  {
+    "index": 132,
+    "name": "Index by Dodo Payments",
+    "url": "https://index.dodopayments.com",
+    "error": "HTTP 429"
+  },
+  {
+    "index": 134,
+    "name": "Indian Yellow Pages",
+    "url": "https://www.indianyellowpages.com/post-",
+    "error": "HTTP 410"
+  },
+  {
+    "index": 135,
+    "name": "Indie Gamer Reviewer",
+    "url": "https://indiegamereviewer.com/contact-ir",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 140,
+    "name": "InnMind",
+    "url": "https://innmind.com",
+    "error": ""
+  },
+  {
+    "index": 142,
+    "name": "Insur-Tech iPhone Life",
+    "url": "https://insur-tech.com/submit",
+    "error": ""
+  },
+  {
+    "index": 147,
+    "name": "Killer Startups",
+    "url": "http://www.killerstartups.com",
+    "error": ""
+  },
+  {
+    "index": 150,
+    "name": "Kotaku",
+    "url": "https://kotaku.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 152,
+    "name": "Landing Folio",
+    "url": "https://www.landingfolio.com",
+    "error": ""
+  },
+  {
+    "index": 159,
+    "name": "Life Hack",
+    "url": "https://www.lifehack.org",
+    "error": ""
+  },
+  {
+    "index": 161,
+    "name": "Listly",
+    "url": "https://list.ly",
+    "error": "HTTP 503"
+  },
+  {
+    "index": 162,
+    "name": "Lobsters",
+    "url": "https://lobste.rs",
+    "error": ""
+  },
+  {
+    "index": 166,
+    "name": "Magnitt",
+    "url": "https://magnitt.com/startups",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 168,
+    "name": "Maker Lead",
+    "url": "https://makerlead.com",
+    "error": ""
+  },
+  {
+    "index": 171,
+    "name": "Medium",
+    "url": "https://medium.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 172,
+    "name": "Merchant Circle",
+    "url": "https://www.merchantcircle.com/signup/#\u00e2\u20ac\u00b9",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 174,
+    "name": "ModDB",
+    "url": "https://www.moddb.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 175,
+    "name": "My Startup Tool",
+    "url": "https://mystartuptool.com",
+    "error": "HTTP 503"
+  },
+  {
+    "index": 177,
+    "name": "Netted",
+    "url": "https://www.netted.net",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 182,
+    "name": "Online Genuises",
+    "url": "https://onlinegeniuses.com/marketplace-",
+    "error": ""
+  },
+  {
+    "index": 186,
+    "name": "Owwly",
+    "url": "https://owwly.com/products/all",
+    "error": ""
+  },
+  {
+    "index": 190,
+    "name": "PC Mag",
+    "url": "https://in.pcmag.com",
+    "error": "HTTP 410"
+  },
+  {
+    "index": 193,
+    "name": "PitchBook",
+    "url": "https://www.pitchbook.com/sponsorship",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 196,
+    "name": "Post Make",
+    "url": "https://postmake.io/submit",
+    "error": ""
+  },
+  {
+    "index": 197,
+    "name": "Prefundia",
+    "url": "https://prefundia.com",
+    "error": ""
+  },
+  {
+    "index": 198,
+    "name": "Product Hunt",
+    "url": "https://producthunt.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 199,
+    "name": "Profit Hunt",
+    "url": "https://profithunt.co",
+    "error": ""
+  },
+  {
+    "index": 203,
+    "name": "Quora",
+    "url": "https://quora.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 221,
+    "name": "ReadWrite",
+    "url": "https://readwrite.com/contributor-guideline",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 223,
+    "name": "Red Ferret",
+    "url": "https://www.redferret.net/contact-us",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 225,
+    "name": "Remote Tools",
+    "url": "https://www.remote.tools",
+    "error": ""
+  },
+  {
+    "index": 226,
+    "name": "Robingood",
+    "url": "https://tools.robingood.com",
+    "error": ""
+  },
+  {
+    "index": 238,
+    "name": "Saas Worthy",
+    "url": "http://saasworthy.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 241,
+    "name": "Serchen",
+    "url": "https://www.serchen.com/get-listed",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 242,
+    "name": "Side Bar",
+    "url": "https://Sidebar.io",
+    "error": ""
+  },
+  {
+    "index": 243,
+    "name": "Side Projectors",
+    "url": "https://www.sideprojectors.com/#",
+    "error": ""
+  },
+  {
+    "index": 248,
+    "name": "Slant",
+    "url": "http://slant.co",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 253,
+    "name": "Software Advice",
+    "url": "https://www.softwareadvice.com/vendors",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 255,
+    "name": "Software World",
+    "url": "https://www.softwareworld.co",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 259,
+    "name": "Spoke",
+    "url": "https://www.spoke.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 263,
+    "name": "Stack Share",
+    "url": "https://stackshare.io",
+    "error": "HTTP 429"
+  },
+  {
+    "index": 264,
+    "name": "Start Us",
+    "url": "https://www.startus.cc",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "index": 267,
+    "name": "Startup Base",
+    "url": "https://startupbase.io",
+    "error": ""
+  },
+  {
+    "index": 270,
+    "name": "Startup Buffer",
+    "url": "https://startupbuffer.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 271,
+    "name": "Startup Button",
+    "url": "https://www.startupbutton.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 273,
+    "name": "Startup Costs",
+    "url": "https://www.startupcosts.co/signup",
+    "error": ""
+  },
+  {
+    "index": 276,
+    "name": "Startup Europe",
+    "url": "http://startupeurope.net",
+    "error": "HTTP 503"
+  },
+  {
+    "index": 286,
+    "name": "Startup Ranking",
+    "url": "https://www.startupranking.com",
+    "error": ""
+  },
+  {
+    "index": 293,
+    "name": "Startup Tracker",
+    "url": "https://startuptracker.io/crowdsourcing",
+    "error": ""
+  },
+  {
+    "index": 304,
+    "name": "State of Tech",
+    "url": "https://stateoftech.net",
+    "error": ""
+  },
+  {
+    "index": 305,
+    "name": "Storyfied",
+    "url": "https://storyfied.com/get-featured",
+    "error": ""
+  },
+  {
+    "index": 308,
+    "name": "Sulekha",
+    "url": "https://www.sulekha.com/local-services/bi",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 314,
+    "name": "TeachOnline",
+    "url": "https://teachonline.ca/tools-trends/best-pr",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 321,
+    "name": "Tech In Asia",
+    "url": "https://www.techinasia.com",
+    "error": ""
+  },
+  {
+    "index": 323,
+    "name": "TechBoard",
+    "url": "https://techboard.com.au",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 328,
+    "name": "The Apple Google",
+    "url": "http://theapplegoogle.com",
+    "error": ""
+  },
+  {
+    "index": 341,
+    "name": "Thing Testing",
+    "url": "https://thingtesting.com/submit-brand",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 342,
+    "name": "Tool Salad",
+    "url": "https://toolsalad.com/submit",
+    "error": "HTTP 525"
+  },
+  {
+    "index": 343,
+    "name": "Topion Networls",
+    "url": "https://www.topionetworks.com/#new-sitt",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 345,
+    "name": "ToucheArcade",
+    "url": "https://toucharcade.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 351,
+    "name": "Trust Radius",
+    "url": "http://trustradius.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 355,
+    "name": "Uneed",
+    "url": "https://uneed.best",
+    "error": ""
+  },
+  {
+    "index": 357,
+    "name": "Unsplash",
+    "url": "https://unsplash.com",
+    "error": "HTTP 401"
+  },
+  {
+    "index": 358,
+    "name": "Up Labs",
+    "url": "https://www.uplabs.com",
+    "error": ""
+  },
+  {
+    "index": 359,
+    "name": "Valuer",
+    "url": "https://www.valuer.ai",
+    "error": ""
+  },
+  {
+    "index": 361,
+    "name": "Venture Beat",
+    "url": "https://venturebeat.com/quest-posts",
+    "error": "HTTP 429"
+  },
+  {
+    "index": 369,
+    "name": "Web Tools Weekly",
+    "url": "http://webtoolsweekly.com/submit",
+    "error": ""
+  },
+  {
+    "index": 371,
+    "name": "Web3 Canvas",
+    "url": "http://web3canvas.com/submit",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 372,
+    "name": "Webdesign Inspiration",
+    "url": "https://webdesign-inspiration.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 375,
+    "name": "What's new on the net",
+    "url": "https://www.whatsnewonthenet.com/conti",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)>"
+  },
+  {
+    "index": 377,
+    "name": "Women Entrepreneurs Portal",
+    "url": "https://wep.gov.in/knowledge-bank/mybl",
+    "error": ""
+  },
+  {
+    "index": 379,
+    "name": "Yellow Pages",
+    "url": "https://www.yellowpages.com/?re=yp",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 381,
+    "name": "Young Upstarts",
+    "url": "http://youngupstarts.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 383,
+    "name": "Your Stack",
+    "url": "https://yourstack.com",
+    "error": ""
+  },
+  {
+    "index": 384,
+    "name": "YourStory",
+    "url": "https://yourstory.com/companies",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 386,
+    "name": "ZDNet",
+    "url": "https://www.zdnet.com/blog",
+    "error": ""
+  },
+  {
+    "index": 387,
+    "name": "Zumvu",
+    "url": "http://zumvu.com/make-profile.zvx",
+    "error": ""
+  },
+  {
+    "index": 388,
+    "name": "100 AI Apps",
+    "url": "https://100apps.org",
+    "error": ""
+  },
+  {
+    "index": 393,
+    "name": "Afford Hunt",
+    "url": "https://t.co/zZB1Yxgf8s",
+    "error": ""
+  },
+  {
+    "index": 395,
+    "name": "AI combined",
+    "url": "https://aicombined.com/add-listing",
+    "error": ""
+  },
+  {
+    "index": 396,
+    "name": "AI Depot",
+    "url": "https://t.co/d7KH891ypL",
+    "error": ""
+  },
+  {
+    "index": 397,
+    "name": "AI Dir",
+    "url": "https://www.aidir.cc/submit",
+    "error": "Non-HTML content: "
+  },
+  {
+    "index": 400,
+    "name": "AI Explorer",
+    "url": "https://www.aiexplorer.app",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 401,
+    "name": "AI Finder",
+    "url": "https://ai-finder.net/add",
+    "error": ""
+  },
+  {
+    "index": 402,
+    "name": "AI Gadget",
+    "url": "https://aigadget.io",
+    "error": ""
+  },
+  {
+    "index": 403,
+    "name": "AI Hub",
+    "url": "https://www.aihub.fyi/form",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)>"
+  },
+  {
+    "index": 404,
+    "name": "AI Hunter",
+    "url": "https://ai-hunter.io/submit-ai-tool",
+    "error": "HTTP 500"
+  },
+  {
+    "index": 408,
+    "name": "AI Marketing",
+    "url": "https://aimarketing.directory/submit",
+    "error": ""
+  },
+  {
+    "index": 409,
+    "name": "AI scout",
+    "url": "https://aiscout.net/submit-listing/details/ref=aidirectori.es",
+    "error": "HTTP 520"
+  },
+  {
+    "index": 410,
+    "name": "AI Search",
+    "url": "https://ai-search.io/submit",
+    "error": "HTTP 429"
+  },
+  {
+    "index": 412,
+    "name": "AI Startups",
+    "url": "https://www.aistartups.net/submit",
+    "error": ""
+  },
+  {
+    "index": 415,
+    "name": "AI Tool Board",
+    "url": "https://aitoolboard.com/submit-ai-tool",
+    "error": ""
+  },
+  {
+    "index": 417,
+    "name": "AI tool hunt",
+    "url": "https://www.aitoolhunt.com/addTool",
+    "error": ""
+  },
+  {
+    "index": 418,
+    "name": "AI Tool NET",
+    "url": "https://www.aitoolnet.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 422,
+    "name": "AI tools directory COM",
+    "url": "https://aitoolsdirectory.com/submit-tool",
+    "error": ""
+  },
+  {
+    "index": 426,
+    "name": "AI Tools Neil Patel",
+    "url": "https://aitools.neilpatel.com/submit",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 434,
+    "name": "Aixploria",
+    "url": "https://www.aixploria.com/en/add-ai",
+    "error": ""
+  },
+  {
+    "index": 438,
+    "name": "Alternatives.co",
+    "url": "https://alternatives.co/software/ai-tools",
+    "error": ""
+  },
+  {
+    "index": 441,
+    "name": "Ankore",
+    "url": "https://ankore.io/submit",
+    "error": "Remote end closed connection without response"
+  },
+  {
+    "index": 445,
+    "name": "Ben\u2019s Bites News",
+    "url": "https://news.bensbites.com/submit",
+    "error": ""
+  },
+  {
+    "index": 449,
+    "name": "BroUseAI",
+    "url": "https://www.brouseai.com",
+    "error": ""
+  },
+  {
+    "index": 459,
+    "name": "Digi Pro Tools",
+    "url": "https://digiprotoolz.com/contact-us",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 463,
+    "name": "Easy Save AI",
+    "url": "https://easysaveai.com/submit-your-ai-tool",
+    "error": ""
+  },
+  {
+    "index": 464,
+    "name": "Easy with AI",
+    "url": "https://easywithai.com/submit-tool",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 467,
+    "name": "Faind AI",
+    "url": "https://faind.ai/submit-a-tool",
+    "error": ""
+  },
+  {
+    "index": 468,
+    "name": "Favird",
+    "url": "https://favird.com",
+    "error": ""
+  },
+  {
+    "index": 469,
+    "name": "Fazier",
+    "url": "https://fazier.com/submit",
+    "error": ""
+  },
+  {
+    "index": 470,
+    "name": "Find Cool Tools",
+    "url": "https://findcool.tools",
+    "error": ""
+  },
+  {
+    "index": 473,
+    "name": "Flip Bytes",
+    "url": "https://www.flipbytes.com",
+    "error": ""
+  },
+  {
+    "index": 476,
+    "name": "Future AGI tools",
+    "url": "https://www.futureagitools.com/submit-a-site",
+    "error": "<urlopen error [Errno 101] Network is unreachable>"
+  },
+  {
+    "index": 480,
+    "name": "Getlatka",
+    "url": "https://getlatka.com/saas-companies",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 485,
+    "name": "GPTE",
+    "url": "https://gpte.ai/submit-a-tool",
+    "error": ""
+  },
+  {
+    "index": 489,
+    "name": "Insanely Cool Tools",
+    "url": "https://tally.so/r/31kxN1",
+    "error": ""
+  },
+  {
+    "index": 491,
+    "name": "Instant",
+    "url": "https://instantai.io/submit-listing",
+    "error": ""
+  },
+  {
+    "index": 497,
+    "name": "Live Apps",
+    "url": "https://liveapps.ai/become-a-partner",
+    "error": ""
+  },
+  {
+    "index": 499,
+    "name": "MadGenius",
+    "url": "https://madgenius.co/submit",
+    "error": ""
+  },
+  {
+    "index": 503,
+    "name": "NextGenTool",
+    "url": "https://nextgentool.io/submit",
+    "error": ""
+  },
+  {
+    "index": 510,
+    "name": "PureFuture",
+    "url": "https://purefuture.net/contact",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 512,
+    "name": "Saas AI Tools",
+    "url": "https://saasaitools.com/submit",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 513,
+    "name": "Saas Po",
+    "url": "https://www.saaspo.com/submit",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 523,
+    "name": "Synoptica",
+    "url": "https://synoptica.com/submit-an-ai-tool",
+    "error": ""
+  },
+  {
+    "index": 525,
+    "name": "That AI Collection",
+    "url": "https://www.thataicollection.com/submit",
+    "error": ""
+  },
+  {
+    "index": 527,
+    "name": "The AI Warehouse",
+    "url": "https://inside.thewarehouse.ai/submissions",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 530,
+    "name": "TipSeason",
+    "url": "https://tipseason.com/ai-tools/submit",
+    "error": ""
+  },
+  {
+    "index": 534,
+    "name": "Toolify.ai",
+    "url": "https://www.toolify.ai/login?from=%2Fsubmit",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 539,
+    "name": "Tools.so",
+    "url": "https://tools.so",
+    "error": ""
+  },
+  {
+    "index": 540,
+    "name": "ToolScout",
+    "url": "https://toolscout.ai/submit",
+    "error": ""
+  },
+  {
+    "index": 543,
+    "name": "Top Apps AI",
+    "url": "https://topapps.ai/submit",
+    "error": ""
+  },
+  {
+    "index": 546,
+    "name": "Victrays",
+    "url": "https://victrays.com/submit-tool",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 551,
+    "name": "Hugging Face Hub",
+    "url": "https://huggingface.co/",
+    "error": ""
+  },
+  {
+    "index": 559,
+    "name": "AI Hunt",
+    "url": "https://aihunt.ai/",
+    "error": ""
+  },
+  {
+    "index": 561,
+    "name": "AiMatchPro",
+    "url": "https://aimatchpro.com/",
+    "error": ""
+  },
+  {
+    "index": 562,
+    "name": "AI PEDIA HUB",
+    "url": "https://aipediahub.com/",
+    "error": ""
+  },
+  {
+    "index": 563,
+    "name": "AI Pulse",
+    "url": "https://aipulse.ai/",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 567,
+    "name": "AI Mojo",
+    "url": "https://aimojo.com/",
+    "error": ""
+  },
+  {
+    "index": 570,
+    "name": "AI Tech Suite",
+    "url": "https://aitechsuite.com/",
+    "error": "HTTP 429"
+  },
+  {
+    "index": 574,
+    "name": "AI Wizard",
+    "url": "https://aiwizard.ai/",
+    "error": ""
+  },
+  {
+    "index": 578,
+    "name": "GetApp",
+    "url": "https://www.getapp.com/",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 581,
+    "name": "Fe/male Switch",
+    "url": "https://www.femaleswitch.com/",
+    "error": ""
+  },
+  {
+    "index": 582,
+    "name": "SaaSWorthy",
+    "url": "https://www.saasworthy.com/",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 584,
+    "name": "Web Design Inspiration",
+    "url": "https://www.webdesign-inspiration.com/",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 585,
+    "name": "NoCodeList",
+    "url": "https://nocodelist.co/",
+    "error": ""
+  },
+  {
+    "index": 586,
+    "name": "NoCodeDevs",
+    "url": "https://www.nocodedevs.com/",
+    "error": ""
+  },
+  {
+    "index": 592,
+    "name": "Build in Public",
+    "url": "https://buildinpublic.page/",
+    "error": ""
+  },
+  {
+    "index": 593,
+    "name": "Hand Picked Tools",
+    "url": "https://handpickedtools.com/",
+    "error": ""
+  },
+  {
+    "index": 597,
+    "name": "Startup Fame",
+    "url": "https://startupfa.me/",
+    "error": "HTTP 429"
+  },
+  {
+    "index": 599,
+    "name": "Best of Web",
+    "url": "https://botw.org/",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 602,
+    "name": "AI Corner",
+    "url": "https://aicorner.net",
+    "error": ""
+  },
+  {
+    "index": 610,
+    "name": "AI Agents Marketplace",
+    "url": "https://trillionagent.com/",
+    "error": ""
+  },
+  {
+    "index": 616,
+    "name": "AI Resource Pro",
+    "url": "https://airesource.pro",
+    "error": ""
+  },
+  {
+    "index": 620,
+    "name": "AI Tools Pin",
+    "url": "https://aitoolspin.com/",
+    "error": ""
+  },
+  {
+    "index": 622,
+    "name": "AI-Tools Directory",
+    "url": "https://ai-tools.directory",
+    "error": ""
+  },
+  {
+    "index": 628,
+    "name": "ALL AI TOOLS .TECH DIRECTORY",
+    "url": "https://allaitools.tech/",
+    "error": ""
+  },
+  {
+    "index": 632,
+    "name": "AI Tools Explore",
+    "url": "https://aiex.me/",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 634,
+    "name": "AI Tool List",
+    "url": "https://www.aitoollist.org",
+    "error": ""
+  },
+  {
+    "index": 635,
+    "name": "AiToolz",
+    "url": "https://aitoolz.net",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 636,
+    "name": "AI Toolz Dir",
+    "url": "https://www.aitoolzdir.com",
+    "error": ""
+  },
+  {
+    "index": 638,
+    "name": "AI Agents Base",
+    "url": "https://aiagentsbase.com",
+    "error": ""
+  },
+  {
+    "index": 640,
+    "name": "AI Agents Verse",
+    "url": "https://aiagentsverse.com/",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 646,
+    "name": "Ask AI For It",
+    "url": "https://askaiforit.com",
+    "error": ""
+  },
+  {
+    "index": 647,
+    "name": "AI Headshot Hub",
+    "url": "https://aiheadshothub.com/",
+    "error": ""
+  },
+  {
+    "index": 653,
+    "name": "Best of Web",
+    "url": "https://www.bestofweb.site",
+    "error": ""
+  },
+  {
+    "index": 655,
+    "name": "Byblos AI",
+    "url": "https://byblosai.com/",
+    "error": "HTTP 525"
+  },
+  {
+    "index": 656,
+    "name": "BuildVoyage",
+    "url": "https://buildvoyage.com/",
+    "error": ""
+  },
+  {
+    "index": 657,
+    "name": "ChooseTheAI",
+    "url": "https://choosetheai.com/",
+    "error": ""
+  },
+  {
+    "index": 658,
+    "name": "ClaudePro.directory",
+    "url": "https://claudepro.directory/",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 660,
+    "name": "CogList AI",
+    "url": "https://coglist.com/",
+    "error": ""
+  },
+  {
+    "index": 661,
+    "name": "DataLook.io",
+    "url": "https://datalook.io/",
+    "error": ""
+  },
+  {
+    "index": 663,
+    "name": "Dessign",
+    "url": "https://dessign.net/",
+    "error": "HTTP 429"
+  },
+  {
+    "index": 666,
+    "name": "Dofollow.Tools",
+    "url": "https://dofollow.tools",
+    "error": ""
+  },
+  {
+    "index": 676,
+    "name": "Future AI Guide",
+    "url": "https://tools.futureaiguide.com/",
+    "error": ""
+  },
+  {
+    "index": 679,
+    "name": "FastLaunch",
+    "url": "https://fastlaunch.io/",
+    "error": ""
+  },
+  {
+    "index": 683,
+    "name": "Havnai",
+    "url": "https://havnai.com/",
+    "error": ""
+  },
+  {
+    "index": 684,
+    "name": "HeyAIworld",
+    "url": "https://heyaiworld.com/",
+    "error": ""
+  },
+  {
+    "index": 685,
+    "name": "IA sur mesure",
+    "url": "https://iasurmesure.com/",
+    "error": ""
+  },
+  {
+    "index": 686,
+    "name": "Intelligent Tools",
+    "url": "https://intelligenttools.co/",
+    "error": ""
+  },
+  {
+    "index": 689,
+    "name": "ListYourTool",
+    "url": "https://www.listyourtool.com/",
+    "error": "HTTP 429"
+  },
+  {
+    "index": 694,
+    "name": "NavTools AI",
+    "url": "https://navtools.ai/",
+    "error": ""
+  },
+  {
+    "index": 695,
+    "name": "NeonRev",
+    "url": "https://www.neonrev.com/",
+    "error": ""
+  },
+  {
+    "index": 700,
+    "name": "Startuplist.in",
+    "url": "https://startuplist.in/",
+    "error": "<urlopen error [Errno 111] Connection refused>"
+  },
+  {
+    "index": 702,
+    "name": "Startup Tools List",
+    "url": "https://startuptoolslist.com",
+    "error": ""
+  },
+  {
+    "index": 703,
+    "name": "Spiff.store",
+    "url": "http://spiff.store/",
+    "error": ""
+  },
+  {
+    "index": 713,
+    "name": "Toolwave.io",
+    "url": "https://www.toolwave.io",
+    "error": "HTTP 402"
+  },
+  {
+    "index": 726,
+    "name": "Yet Another AI Tool Directory",
+    "url": "https://yaatd.com/",
+    "error": ""
+  },
+  {
+    "index": 728,
+    "name": "Plan Tomtom",
+    "url": "https://www.plan.tomtom.com",
+    "error": ""
+  },
+  {
+    "index": 732,
+    "name": "Thetoptens",
+    "url": "https://www.thetoptens.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 733,
+    "name": "Storeboard",
+    "url": "https://www.storeboard.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 737,
+    "name": "Tkseo",
+    "url": "https://www.tkseo.net",
+    "error": ""
+  },
+  {
+    "index": 742,
+    "name": "Thehoth",
+    "url": "https://www.thehoth.com",
+    "error": ""
+  },
+  {
+    "index": 746,
+    "name": "Ebusinesspages",
+    "url": "https://www.ebusinesspages.com",
+    "error": "HTTP 523"
+  },
+  {
+    "index": 748,
+    "name": "Prsync",
+    "url": "https://www.prsync.com",
+    "error": "<urlopen error [Errno 104] Connection reset by peer>"
+  },
+  {
+    "index": 749,
+    "name": "Indiacom",
+    "url": "https://www.indiacom.com",
+    "error": ""
+  },
+  {
+    "index": 755,
+    "name": "Entireweb",
+    "url": "https://www.entireweb.com",
+    "error": ""
+  },
+  {
+    "index": 756,
+    "name": "Salespider",
+    "url": "https://www.salespider.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 762,
+    "name": "Place123",
+    "url": "https://www.place123.net",
+    "error": "<urlopen error [Errno 104] Connection reset by peer>"
+  },
+  {
+    "index": 765,
+    "name": "Agreatertown",
+    "url": "https://www.agreatertown.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 772,
+    "name": "Bloggernity",
+    "url": "https://www.bloggernity.com",
+    "error": ""
+  },
+  {
+    "index": 774,
+    "name": "Golocal247",
+    "url": "https://www.golocal247.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 775,
+    "name": "Iglobal",
+    "url": "https://www.iglobal.co",
+    "error": ""
+  },
+  {
+    "index": 777,
+    "name": "Uscity",
+    "url": "https://www.uscity.net",
+    "error": ""
+  },
+  {
+    "index": 778,
+    "name": "Businesslistingplus",
+    "url": "https://www.businesslistingplus.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 784,
+    "name": "Tupalo",
+    "url": "https://www.tupalo.net",
+    "error": ""
+  },
+  {
+    "index": 792,
+    "name": "Freeadstime",
+    "url": "https://www.freeadstime.org",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 794,
+    "name": "Localstack",
+    "url": "https://www.localstack.com",
+    "error": "HTTP 308"
+  },
+  {
+    "index": 798,
+    "name": "Grotal",
+    "url": "https://www.grotal.com",
+    "error": "<urlopen error [Errno 111] Connection refused>"
+  },
+  {
+    "index": 800,
+    "name": "Buyersindex",
+    "url": "https://www.buyersindex.com",
+    "error": ""
+  },
+  {
+    "index": 809,
+    "name": "Mastermoz",
+    "url": "https://www.mastermoz.com",
+    "error": ""
+  },
+  {
+    "index": 811,
+    "name": "Eindiabusiness",
+    "url": "https://www.eindiabusiness.com",
+    "error": "HTTP 403"
+  },
+  {
+    "index": 812,
+    "name": "Automaticbacklinks",
+    "url": "https://www.automaticbacklinks.com",
+    "error": ""
+  },
+  {
+    "index": 823,
+    "name": "Blogdirs",
+    "url": "https://www.blogdirs.com",
+    "error": ""
+  },
+  {
+    "index": 825,
+    "name": "Indiacatalog",
+    "url": "https://www.indiacatalog.com",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1000)>"
+  }
+]
