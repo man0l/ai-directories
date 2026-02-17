@@ -1,39 +1,5 @@
 [
   {
-    "directory_index": 0,
-    "directory_name": "10 Words",
-    "submission_url": "https://10words.io",
-    "auth_type": "none",
-    "captcha_type": "recaptcha_v2",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source AI SDR Agent",
-      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization \u2014 all from your phone."
-    },
-    "credentials": null,
-    "form_path": "https://10words.io/",
-    "form_fields": [
-      {
-        "action": "https://app.10words.io/subscription/create",
-        "method": "post",
-        "id": "demo-form",
-        "class": "ng-pristine ng-valid",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "text",
-            "name": "email",
-            "id": "email-field",
-            "placeholder": "Enter your email",
-            "label": "Enter your email",
-            "required": false
-          }
-        ]
-      }
-    ],
-    "status": "skipped",
-    "notes": "Submission requires creating a 10words account first; skipped for now."
-  },
-  {
     "directory_index": 1,
     "directory_name": "9 Sites",
     "submission_url": "https://www.9sites.net/addurl.php",
@@ -41,7 +7,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Replace Your $100K Sales Stack",
-      "description": "Stop paying the SaaS tax on outreach. YOUR_PRODUCT_NAME is a self-hosted AI SDR agent that scrapes Google Maps, mines contacts, identifies decision makers, and verifies emails \u2014 a complete 5-step enrichment pipeline running on your infrastructure."
+      "description": "Stop paying the SaaS tax on outreach. YOUR_PRODUCT_NAME is a self-hosted AI SDR agent that scrapes Google Maps, mines contacts, identifies decision makers, and verifies emails — a complete 5-step enrichment pipeline running on your infrastructure."
     },
     "credentials": null,
     "form_path": null,
@@ -56,7 +22,7 @@
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI-Powered Lead Generation Pipeline",
+      "title": "YOUR_PRODUCT_NAME — AI-Powered Lead Generation Pipeline",
       "description": "An open-source, mobile-first AI agent that transforms Google Maps data into verified, qualified leads. Bring your own API keys, self-host for free, and run your entire outbound pipeline from your phone."
     },
     "credentials": null,
@@ -88,8 +54,8 @@
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 GTM Engineering as Code",
-      "description": "A precision-engineered lead enrichment pipeline that runs on your infrastructure. Scrape Google Maps, find decision makers, verify emails, and launch personalized outreach \u2014 all without paying $2K/month for a black box."
+      "title": "YOUR_PRODUCT_NAME — GTM Engineering as Code",
+      "description": "A precision-engineered lead enrichment pipeline that runs on your infrastructure. Scrape Google Maps, find decision makers, verify emails, and launch personalized outreach — all without paying $2K/month for a black box."
     },
     "credentials": null,
     "form_path": null,
@@ -119,7 +85,7 @@
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Turn Google Maps Into Leads",
+      "title": "YOUR_PRODUCT_NAME — Turn Google Maps Into Leads",
       "description": "Extract high-intent business leads from Google Maps, enrich them with deep research, verify decision-maker emails, and manage everything from your phone. Open-source and MIT licensed."
     },
     "credentials": null,
@@ -168,7 +134,7 @@
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Mobile-First AI Outreach Platform",
+      "title": "YOUR_PRODUCT_NAME — Mobile-First AI Outreach Platform",
       "description": "Run your entire lead generation pipeline from your smartphone. YOUR_PRODUCT_NAME scrapes Google Maps, mines contacts, finds decision makers, and verifies emails. Open-source, self-hosted, and credit-based pricing."
     },
     "credentials": null,
@@ -203,7 +169,7 @@
     "captcha_type": "recaptcha_v2",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Kill the SaaS Bloat in Your Sales Stack",
-      "description": "Replace Zapier chains and expensive SaaS tools with a single open-source AI agent. YOUR_PRODUCT_NAME enriches Google Maps leads through a 5-step pipeline \u2014 all running on your own infrastructure."
+      "description": "Replace Zapier chains and expensive SaaS tools with a single open-source AI agent. YOUR_PRODUCT_NAME enriches Google Maps leads through a 5-step pipeline — all running on your own infrastructure."
     },
     "credentials": null,
     "form_path": null,
@@ -218,7 +184,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 71% Cheaper Than a Human SDR",
+      "title": "YOUR_PRODUCT_NAME — 71% Cheaper Than a Human SDR",
       "description": "Open-source AI SDR agent that costs $8K/year instead of $98K. Scrape Google Maps, find decision makers, verify emails, and sanitize data. Self-hosted with BYOK support. MIT licensed."
     },
     "credentials": null,
@@ -246,56 +212,13 @@
     "notes": "App search site, no submission form"
   },
   {
-    "directory_index": 27,
-    "directory_name": "Apple Insider",
-    "submission_url": "https://appleinsider.com",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME: Bring Your Own Keys, Pay Nothing Extra",
-      "description": "Plug in your own API keys for RapidAPI, OpenAI, and Anymail Finder \u2014 every pipeline step that uses your key costs zero credits. Self-host the entire platform for free under the MIT license."
-    },
-    "credentials": null,
-    "form_path": "https://appleinsider.com/",
-    "form_fields": [
-      {
-        "action": "https://appleinsider.us8.list-manage.com/subscribe/post?u=c97a332edb0cbf682ad2ed9b6&id=d423b35301&SIGNUP=newsletter_article",
-        "method": "post",
-        "id": "mc-embedded-subscribe-form",
-        "class": "validate",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "text",
-            "name": "b_c97a332edb0cbf682ad2ed9b6_d423b35301",
-            "id": "",
-            "placeholder": "",
-            "label": "b_c97a332edb0cbf682ad2ed9b6_d423b35301",
-            "required": false
-          },
-          {
-            "tag": "input",
-            "type": "email",
-            "name": "EMAIL",
-            "id": "mce-EMAIL",
-            "placeholder": "email address",
-            "label": "email address",
-            "required": true
-          }
-        ]
-      }
-    ],
-    "status": "skipped",
-    "notes": "Tech news, newsletter signup only"
-  },
-  {
     "directory_index": 33,
     "directory_name": "Apps Thunder",
     "submission_url": "https://appsthunder.com/submit-your-app",
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Lead Gen for GTM Engineers",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Lead Gen for GTM Engineers",
       "description": "Built for the modern GTM engineer. A self-hosted 5-step pipeline that extracts leads from Google Maps, enriches contacts, identifies decision makers, and verifies emails. Run it all from your phone."
     },
     "credentials": null,
@@ -345,7 +268,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 The Anti-SaaS Sales Stack",
+      "title": "YOUR_PRODUCT_NAME — The Anti-SaaS Sales Stack",
       "description": "No more sync states, no more security risks, no more cost spirals. YOUR_PRODUCT_NAME is a self-hosted AI SDR that runs your entire outbound pipeline on your infrastructure. MIT license, full data ownership."
     },
     "credentials": null,
@@ -413,7 +336,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI-Powered B2B Lead Pipeline",
+      "title": "YOUR_PRODUCT_NAME — AI-Powered B2B Lead Pipeline",
       "description": "Transform hyper-local Google Maps data into verified B2B leads. YOUR_PRODUCT_NAME handles the full enrichment pipeline: scraping, contact discovery, DM identification, email verification, and data sanitization."
     },
     "credentials": null,
@@ -506,7 +429,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Speed to Lead, From Your Phone",
+      "title": "YOUR_PRODUCT_NAME — Speed to Lead, From Your Phone",
       "description": "A mobile-first AI SDR agent. Swipe to approve leads, trigger AI sequences, and track your pipeline in real-time. Built for GTM engineers who move fast. Open-source and self-hosted."
     },
     "credentials": null,
@@ -515,98 +438,13 @@
     "status": "timeout"
   },
   {
-    "directory_index": 48,
-    "directory_name": "Betakit",
-    "submission_url": "https://betakit.com",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME: AI SDR Agent with Full Pipeline Control",
-      "description": "5 pipeline steps, 100% your data. Map scrape with RapidAPI, mine contacts with OpenWeb Ninja, identify DMs with AI, verify emails with Anymail, and sanitize everything automatically."
-    },
-    "credentials": null,
-    "form_path": "https://betakit.com/",
-    "form_fields": [
-      {
-        "action": "https://betakit.com/",
-        "method": "get",
-        "id": "",
-        "class": "needsclick klaviyo-form klaviyo-form-version-cid_2 go3279073480 kl-private-reset-css-Xuajs1",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "email",
-            "name": "email",
-            "id": "email_01JV5MV8G7MZ1CYPHW9V6HX39V",
-            "placeholder": "Email address",
-            "label": "Email address",
-            "required": false
-          }
-        ]
-      },
-      {
-        "action": "https://betakit.com/",
-        "method": "get",
-        "id": "",
-        "class": "needsclick klaviyo-form klaviyo-form-version-cid_1 go3279073480 kl-private-reset-css-Xuajs1",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "email",
-            "name": "email",
-            "id": "email_01JV5MXYE3ST93H9NVEWCN3M4A",
-            "placeholder": "Email address",
-            "label": "Email Address",
-            "required": false
-          }
-        ]
-      },
-      {
-        "action": "https://betakit.com/",
-        "method": "get",
-        "id": "",
-        "class": "search-form",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "search",
-            "name": "s",
-            "id": "search-form-698c613b87726",
-            "placeholder": "Type and hit Enter ...",
-            "label": "Search for:",
-            "required": false
-          }
-        ]
-      },
-      {
-        "action": "https://betakit.com/",
-        "method": "get",
-        "id": "",
-        "class": "needsclick klaviyo-form klaviyo-form-version-cid_3 go3279073480 kl-private-reset-css-Xuajs1",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "email",
-            "name": "email",
-            "id": "email_01JV5MXAKAWPVT257CS1Z6Z4PM",
-            "placeholder": "Email address",
-            "label": "Email address",
-            "required": false
-          }
-        ]
-      }
-    ],
-    "status": "skipped",
-    "notes": "Tech news site, only newsletter/contact forms"
-  },
-  {
     "directory_index": 49,
     "directory_name": "BetaList",
     "submission_url": "https://betalist.com",
     "auth_type": "none",
     "captcha_type": "recaptcha_v3",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Alternative to Apollo & Instantly",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Alternative to Apollo & Instantly",
       "description": "Why pay thousands for black-box outreach tools? YOUR_PRODUCT_NAME gives you the full lead enrichment pipeline as open-source code. Self-host it, bring your own API keys, own your data."
     },
     "credentials": null,
@@ -1542,7 +1380,7 @@
     "captcha_type": "captcha_unknown",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Outbound Lead Gen Without the SaaS Tax",
-      "description": "Open-source AI SDR agent that replaces your expensive sales stack. From Google Maps scraping to verified decision-maker emails \u2014 all in a single, self-hosted platform with credit-based pricing."
+      "description": "Open-source AI SDR agent that replaces your expensive sales stack. From Google Maps scraping to verified decision-maker emails — all in a single, self-hosted platform with credit-based pricing."
     },
     "credentials": null,
     "form_path": "https://www.bbb.org/",
@@ -1566,7 +1404,7 @@
             "tag": "input",
             "type": "text",
             "name": "find_text",
-            "id": "downshift-\u00abR39km\u00bb-input",
+            "id": "downshift-«R39km»-input",
             "placeholder": "businesses, category",
             "label": "Find",
             "required": false
@@ -1575,7 +1413,7 @@
             "tag": "input",
             "type": "text",
             "name": "find_loc",
-            "id": "downshift-\u00abR59km\u00bb-input",
+            "id": "downshift-«R59km»-input",
             "placeholder": "city, state or zip",
             "label": "Near",
             "required": false
@@ -1593,7 +1431,7 @@
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 The $8K/Year SDR Replacement",
+      "title": "YOUR_PRODUCT_NAME — The $8K/Year SDR Replacement",
       "description": "Total annual cost: $8K vs $98K for a human SDR. YOUR_PRODUCT_NAME automates lead scraping, contact enrichment, decision-maker identification, and email verification. MIT licensed, mobile-first."
     },
     "credentials": null,
@@ -1610,7 +1448,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: AI Lead Enrichment in 5 Steps",
-      "description": "Map Scrape \u2192 Contact Mining \u2192 DM Identification \u2192 Email Verification \u2192 Data Sanitization. A complete AI-powered pipeline that turns Google Maps businesses into outreach-ready leads."
+      "description": "Map Scrape → Contact Mining → DM Identification → Email Verification → Data Sanitization. A complete AI-powered pipeline that turns Google Maps businesses into outreach-ready leads."
     },
     "credentials": null,
     "form_path": "https://changelog.com/sponsor/pricing",
@@ -1660,7 +1498,7 @@
     "auth_type": "none",
     "captcha_type": "recaptcha_v2",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Own Your Pipeline, Not Rent It",
+      "title": "YOUR_PRODUCT_NAME — Own Your Pipeline, Not Rent It",
       "description": "Self-hosted lead generation powered by AI. Scrape hyper-local leads from Google Maps, enrich with verified contacts, and manage from your phone. No third-party data risk, MIT licensed."
     },
     "credentials": null,
@@ -1691,7 +1529,7 @@
     "auth_type": "none",
     "captcha_type": "recaptcha_v2",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI SDR for Solo Founders & Agencies",
+      "title": "YOUR_PRODUCT_NAME — AI SDR for Solo Founders & Agencies",
       "description": "Whether you're a solo GTM engineer or running an agency, YOUR_PRODUCT_NAME scales with you. Free tier with 100 credits, or self-host for unlimited leads. Google Maps to verified emails in minutes."
     },
     "credentials": null,
@@ -1723,8 +1561,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Full-Stack Lead Gen, Zero Lock-In",
-      "description": "Scrape, enrich, verify, and sanitize \u2014 all on your own infrastructure. YOUR_PRODUCT_NAME is the MIT-licensed AI SDR agent with BYOK support. Your keys, your data, your pipeline."
+      "title": "YOUR_PRODUCT_NAME — Full-Stack Lead Gen, Zero Lock-In",
+      "description": "Scrape, enrich, verify, and sanitize — all on your own infrastructure. YOUR_PRODUCT_NAME is the MIT-licensed AI SDR agent with BYOK support. Your keys, your data, your pipeline."
     },
     "credentials": null,
     "form_path": null,
@@ -1759,8 +1597,8 @@
     "auth_type": "none",
     "captcha_type": "recaptcha_v2",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source AI SDR Agent",
-      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization \u2014 all from your phone."
+      "title": "YOUR_PRODUCT_NAME — Open-Source AI SDR Agent",
+      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization — all from your phone."
     },
     "credentials": null,
     "form_path": "https://crozdesk.com/",
@@ -1803,7 +1641,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Replace Your $100K Sales Stack",
-      "description": "Stop paying the SaaS tax on outreach. YOUR_PRODUCT_NAME is a self-hosted AI SDR agent that scrapes Google Maps, mines contacts, identifies decision makers, and verifies emails \u2014 a complete 5-step enrichment pipeline running on your infrastructure."
+      "description": "Stop paying the SaaS tax on outreach. YOUR_PRODUCT_NAME is a self-hosted AI SDR agent that scrapes Google Maps, mines contacts, identifies decision makers, and verifies emails — a complete 5-step enrichment pipeline running on your infrastructure."
     },
     "credentials": null,
     "form_path": "https://www.cuspera.com/vendors",
@@ -1817,7 +1655,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI-Powered Lead Generation Pipeline",
+      "title": "YOUR_PRODUCT_NAME — AI-Powered Lead Generation Pipeline",
       "description": "An open-source, mobile-first AI agent that transforms Google Maps data into verified, qualified leads. Bring your own API keys, self-host for free, and run your entire outbound pipeline from your phone."
     },
     "credentials": null,
@@ -2038,8 +1876,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 GTM Engineering as Code",
-      "description": "A precision-engineered lead enrichment pipeline that runs on your infrastructure. Scrape Google Maps, find decision makers, verify emails, and launch personalized outreach \u2014 all without paying $2K/month for a black box."
+      "title": "YOUR_PRODUCT_NAME — GTM Engineering as Code",
+      "description": "A precision-engineered lead enrichment pipeline that runs on your infrastructure. Scrape Google Maps, find decision makers, verify emails, and launch personalized outreach — all without paying $2K/month for a black box."
     },
     "credentials": null,
     "form_path": "https://www.ebool.com/submit",
@@ -2279,7 +2117,7 @@
     "auth_type": "none",
     "captcha_type": "cloudflare_turnstile",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Turn Google Maps Into Leads",
+      "title": "YOUR_PRODUCT_NAME — Turn Google Maps Into Leads",
       "description": "Extract high-intent business leads from Google Maps, enrich them with deep research, verify decision-maker emails, and manage everything from your phone. Open-source and MIT licensed."
     },
     "credentials": null,
@@ -2325,95 +2163,13 @@
     "notes": "Submitted and confirmed. Confirmation page: Website Submitted; verification email required."
   },
   {
-    "directory_index": 96,
-    "directory_name": "Fark",
-    "submission_url": "https://www.fark.com",
-    "auth_type": "email_password",
-    "captcha_type": "none",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME: AI Lead Enrichment, Self-Hosted",
-      "description": "A 5-step AI pipeline that takes Google Maps businesses and produces verified, ready-to-email leads. Self-host for free with your own API keys, or use the managed platform. No vendor lock-in."
-    },
-    "credentials": {
-      "email": "YOUR_EMAIL",
-      "name": "YOUR_NAME",
-      "username": "YOUR_USERNAME",
-      "password": "YOUR_PASSWORD"
-    },
-    "form_path": "https://www.fark.com/",
-    "form_fields": [
-      {
-        "action": "https://www.fark.com/login",
-        "method": "post",
-        "id": "",
-        "class": "",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "text",
-            "name": "ulogin",
-            "id": "loginName",
-            "placeholder": "",
-            "label": "Login",
-            "required": false
-          },
-          {
-            "tag": "input",
-            "type": "password",
-            "name": "passwd",
-            "id": "loginPass",
-            "placeholder": "",
-            "label": "Password",
-            "required": false
-          }
-        ]
-      },
-      {
-        "action": "https://www.fark.com/hlsearch",
-        "method": "get",
-        "id": "",
-        "class": "killspacehack",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "text",
-            "name": "qq",
-            "id": "searchInput",
-            "placeholder": "Search Fark",
-            "label": "Search Fark",
-            "required": false
-          }
-        ]
-      },
-      {
-        "action": "https://www.fark.com/newslettersignup",
-        "method": "post",
-        "id": "",
-        "class": "ajaxsubmit",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "text",
-            "name": "nnl_e",
-            "id": "",
-            "placeholder": "you@you.com",
-            "label": "you@you.com",
-            "required": false
-          }
-        ]
-      }
-    ],
-    "status": "skipped",
-    "notes": "General news/link community (Fark), not a targeted AI/startup directory listing channel."
-  },
-  {
     "directory_index": 99,
     "directory_name": "Feed My Startup",
     "submission_url": "http://feedmystartup.com/submit-your-st",
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Mobile-First AI Outreach Platform",
+      "title": "YOUR_PRODUCT_NAME — Mobile-First AI Outreach Platform",
       "description": "Run your entire lead generation pipeline from your smartphone. YOUR_PRODUCT_NAME scrapes Google Maps, mines contacts, finds decision makers, and verifies emails. Open-source, self-hosted, and credit-based pricing."
     },
     "credentials": null,
@@ -2430,7 +2186,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Kill the SaaS Bloat in Your Sales Stack",
-      "description": "Replace Zapier chains and expensive SaaS tools with a single open-source AI agent. YOUR_PRODUCT_NAME enriches Google Maps leads through a 5-step pipeline \u2014 all running on your own infrastructure."
+      "description": "Replace Zapier chains and expensive SaaS tools with a single open-source AI agent. YOUR_PRODUCT_NAME enriches Google Maps leads through a 5-step pipeline — all running on your own infrastructure."
     },
     "credentials": null,
     "form_path": "https://financesonline.com/",
@@ -2463,7 +2219,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 71% Cheaper Than a Human SDR",
+      "title": "YOUR_PRODUCT_NAME — 71% Cheaper Than a Human SDR",
       "description": "Open-source AI SDR agent that costs $8K/year instead of $98K. Scrape Google Maps, find decision makers, verify emails, and sanitize data. Self-hosted with BYOK support. MIT licensed."
     },
     "credentials": null,
@@ -2562,108 +2318,13 @@
     "notes": "Location-based service, not a tool directory"
   },
   {
-    "directory_index": 110,
-    "directory_name": "Geek Wire",
-    "submission_url": "https://Geekwire.com",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME: Bring Your Own Keys, Pay Nothing Extra",
-      "description": "Plug in your own API keys for RapidAPI, OpenAI, and Anymail Finder \u2014 every pipeline step that uses your key costs zero credits. Self-host the entire platform for free under the MIT license."
-    },
-    "credentials": null,
-    "form_path": "https://www.geekwire.com/",
-    "form_fields": [
-      {
-        "action": "https://geekwire.us2.list-manage.com/subscribe/post?u=7d9669cf206fb932dea38e25e&id=4e93fc7dfd",
-        "method": "post",
-        "id": "mc-article-subscribe-form",
-        "class": "",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "email",
-            "name": "EMAIL",
-            "id": "mce-email-article",
-            "placeholder": "Email address",
-            "label": "Email address",
-            "required": false
-          },
-          {
-            "tag": "input",
-            "type": "text",
-            "name": "b_7d9669cf206fb932dea38e25e_4e93fc7dfd",
-            "id": "",
-            "placeholder": "",
-            "label": "b_7d9669cf206fb932dea38e25e_4e93fc7dfd",
-            "required": false
-          }
-        ]
-      },
-      {
-        "action": "https://geekwire.us2.list-manage.com/subscribe/post?u=7d9669cf206fb932dea38e25e&id=4e93fc7dfd",
-        "method": "post",
-        "id": "mc-banner-subscribe-form",
-        "class": "",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "email",
-            "name": "EMAIL",
-            "id": "mce-email-banner",
-            "placeholder": "Enter your email address",
-            "label": "Email address",
-            "required": false
-          },
-          {
-            "tag": "input",
-            "type": "text",
-            "name": "b_7d9669cf206fb932dea38e25e_4e93fc7dfd",
-            "id": "",
-            "placeholder": "",
-            "label": "b_7d9669cf206fb932dea38e25e_4e93fc7dfd",
-            "required": false
-          }
-        ]
-      },
-      {
-        "action": "https://geekwire.us2.list-manage.com/subscribe/post?u=7d9669cf206fb932dea38e25e&id=4e93fc7dfd",
-        "method": "post",
-        "id": "mc-footer-subscribe-form",
-        "class": "w-75",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "email",
-            "name": "EMAIL",
-            "id": "mce-email-footer",
-            "placeholder": "Enter your email address",
-            "label": "Email address",
-            "required": true
-          },
-          {
-            "tag": "input",
-            "type": "text",
-            "name": "b_7d9669cf206fb932dea38e25e_4e93fc7dfd",
-            "id": "",
-            "placeholder": "",
-            "label": "b_7d9669cf206fb932dea38e25e_4e93fc7dfd",
-            "required": false
-          }
-        ]
-      }
-    ],
-    "status": "cloudflare_blocked",
-    "notes": "Cloudflare blocked on submit-startup page"
-  },
-  {
     "directory_index": 113,
     "directory_name": "Get Worm",
     "submission_url": "https://getworm.com/submit-startup",
     "auth_type": "email_password",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Lead Gen for GTM Engineers",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Lead Gen for GTM Engineers",
       "description": "Built for the modern GTM engineer. A self-hosted 5-step pipeline that extracts leads from Google Maps, enriches contacts, identifies decision makers, and verifies emails. Run it all from your phone."
     },
     "credentials": {
@@ -2754,7 +2415,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 The Anti-SaaS Sales Stack",
+      "title": "YOUR_PRODUCT_NAME — The Anti-SaaS Sales Stack",
       "description": "No more sync states, no more security risks, no more cost spirals. YOUR_PRODUCT_NAME is a self-hosted AI SDR that runs your entire outbound pipeline on your infrastructure. MIT license, full data ownership."
     },
     "credentials": null,
@@ -2822,7 +2483,7 @@
     "auth_type": "none",
     "captcha_type": "recaptcha_v3",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI-Powered B2B Lead Pipeline",
+      "title": "YOUR_PRODUCT_NAME — AI-Powered B2B Lead Pipeline",
       "description": "Transform hyper-local Google Maps data into verified B2B leads. YOUR_PRODUCT_NAME handles the full enrichment pipeline: scraping, contact discovery, DM identification, email verification, and data sanitization."
     },
     "credentials": null,
@@ -2936,58 +2597,6 @@
     "status": "timeout"
   },
   {
-    "directory_index": 129,
-    "directory_name": "Inbox World",
-    "submission_url": "https://inboxworld.io",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Speed to Lead, From Your Phone",
-      "description": "A mobile-first AI SDR agent. Swipe to approve leads, trigger AI sequences, and track your pipeline in real-time. Built for GTM engineers who move fast. Open-source and self-hosted."
-    },
-    "credentials": null,
-    "form_path": "https://inboxworld.io/",
-    "form_fields": [
-      {
-        "action": "https://inboxworld.io/",
-        "method": "get",
-        "id": "contactForm",
-        "class": "contact-form",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "text",
-            "name": "name",
-            "id": "name",
-            "placeholder": "",
-            "label": "Name:",
-            "required": true
-          },
-          {
-            "tag": "input",
-            "type": "email",
-            "name": "email",
-            "id": "email",
-            "placeholder": "",
-            "label": "Email:",
-            "required": true
-          },
-          {
-            "tag": "textarea",
-            "type": "textarea",
-            "name": "message",
-            "id": "message",
-            "placeholder": "",
-            "label": "Message:",
-            "required": true
-          }
-        ]
-      }
-    ],
-    "status": "skipped",
-    "notes": "Parked SEO domain, not a real directory"
-  },
-  {
     "directory_index": 132,
     "directory_name": "Index by Dodo Payments",
     "submission_url": "https://index.dodopayments.com",
@@ -3037,7 +2646,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Alternative to Apollo & Instantly",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Alternative to Apollo & Instantly",
       "description": "Why pay thousands for black-box outreach tools? YOUR_PRODUCT_NAME gives you the full lead enrichment pipeline as open-source code. Self-host it, bring your own API keys, own your data."
     },
     "credentials": null,
@@ -3047,47 +2656,13 @@
     "notes": "Retried timeout; seller marketplace registration flow, not a startup/tool directory listing."
   },
   {
-    "directory_index": 144,
-    "directory_name": "Joinly",
-    "submission_url": "https://www.joinly.xyz",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME: Outbound Lead Gen Without the SaaS Tax",
-      "description": "Open-source AI SDR agent that replaces your expensive sales stack. From Google Maps scraping to verified decision-maker emails \u2014 all in a single, self-hosted platform with credit-based pricing."
-    },
-    "credentials": null,
-    "form_path": "https://www.joinly.xyz/",
-    "form_fields": [
-      {
-        "action": "https://www.joinly.xyz/newsletter",
-        "method": "post",
-        "id": "newsletter-form",
-        "class": "",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "email",
-            "name": "email",
-            "id": "email",
-            "placeholder": "Enter your email here",
-            "label": "Be a Part of 5,000+ Subscribers",
-            "required": true
-          }
-        ]
-      }
-    ],
-    "status": "skipped",
-    "notes": "Community platform, newsletter only"
-  },
-  {
     "directory_index": 151,
     "directory_name": "Land-Book",
     "submission_url": "https://land-book.com",
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 The $8K/Year SDR Replacement",
+      "title": "YOUR_PRODUCT_NAME — The $8K/Year SDR Replacement",
       "description": "Total annual cost: $8K vs $98K for a human SDR. YOUR_PRODUCT_NAME automates lead scraping, contact enrichment, decision-maker identification, and email verification. MIT licensed, mobile-first."
     },
     "credentials": null,
@@ -3122,7 +2697,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: AI Lead Enrichment in 5 Steps",
-      "description": "Map Scrape \u2192 Contact Mining \u2192 DM Identification \u2192 Email Verification \u2192 Data Sanitization. A complete AI-powered pipeline that turns Google Maps businesses into outreach-ready leads."
+      "description": "Map Scrape → Contact Mining → DM Identification → Email Verification → Data Sanitization. A complete AI-powered pipeline that turns Google Maps businesses into outreach-ready leads."
     },
     "credentials": null,
     "form_path": "https://www.landingfolio.com/",
@@ -3155,7 +2730,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Own Your Pipeline, Not Rent It",
+      "title": "YOUR_PRODUCT_NAME — Own Your Pipeline, Not Rent It",
       "description": "Self-hosted lead generation powered by AI. Scrape hyper-local leads from Google Maps, enrich with verified contacts, and manage from your phone. No third-party data risk, MIT licensed."
     },
     "credentials": null,
@@ -3221,7 +2796,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI SDR for Solo Founders & Agencies",
+      "title": "YOUR_PRODUCT_NAME — AI SDR for Solo Founders & Agencies",
       "description": "Whether you're a solo GTM engineer or running an agency, YOUR_PRODUCT_NAME scales with you. Free tier with 100 credits, or self-host for unlimited leads. Google Maps to verified emails in minutes."
     },
     "credentials": null,
@@ -3264,55 +2839,6 @@
     ],
     "status": "submitted",
     "notes": "Duplicate of Launching Next - already submitted"
-  },
-  {
-    "directory_index": 158,
-    "directory_name": "Letter List",
-    "submission_url": "https://letterlist.com/submit",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME: Signal-Led Outreach at Scale",
-      "description": "Only hyper-personalized, signal-led outreach cuts through the noise. YOUR_PRODUCT_NAME enriches each lead with deep research and decision-maker data, so every email you send is relevant."
-    },
-    "credentials": null,
-    "form_path": "https://letterlist.com/submit/",
-    "form_fields": [],
-    "status": "no_form_found"
-  },
-  {
-    "directory_index": 159,
-    "directory_name": "Life Hack",
-    "submission_url": "https://www.lifehack.org",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Full-Stack Lead Gen, Zero Lock-In",
-      "description": "Scrape, enrich, verify, and sanitize \u2014 all on your own infrastructure. YOUR_PRODUCT_NAME is the MIT-licensed AI SDR agent with BYOK support. Your keys, your data, your pipeline."
-    },
-    "credentials": null,
-    "form_path": "https://www.lifehack.org/",
-    "form_fields": [
-      {
-        "action": "https://www.lifehack.org/",
-        "method": "get",
-        "id": "",
-        "class": "cta-form space-y-4",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "email",
-            "name": "",
-            "id": "email",
-            "placeholder": "Enter your email address here...",
-            "label": "Enter your email address here...",
-            "required": false
-          }
-        ]
-      }
-    ],
-    "status": "skipped",
-    "notes": "Lifestyle blog, newsletter only"
   },
   {
     "directory_index": 166,
@@ -3418,8 +2944,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source AI SDR Agent",
-      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization \u2014 all from your phone."
+      "title": "YOUR_PRODUCT_NAME — Open-Source AI SDR Agent",
+      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization — all from your phone."
     },
     "credentials": null,
     "form_path": "https://www.dot-attorney.org/articles/client-acquisition-strategies-for-law-firms.html?psystem=PW&domain=makerlead.com&oref=https%3A%2F%2Fmakerlead.com%2F",
@@ -3434,7 +2960,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Replace Your $100K Sales Stack",
-      "description": "Stop paying the SaaS tax on outreach. YOUR_PRODUCT_NAME is a self-hosted AI SDR agent that scrapes Google Maps, mines contacts, identifies decision makers, and verifies emails \u2014 a complete 5-step enrichment pipeline running on your infrastructure."
+      "description": "Stop paying the SaaS tax on outreach. YOUR_PRODUCT_NAME is a self-hosted AI SDR agent that scrapes Google Maps, mines contacts, identifies decision makers, and verifies emails — a complete 5-step enrichment pipeline running on your infrastructure."
     },
     "credentials": {
       "email": "YOUR_EMAIL",
@@ -3519,21 +3045,6 @@
     "notes": "Gaming mods/news platform, not a relevant startup/AI tools directory submission target."
   },
   {
-    "directory_index": 180,
-    "directory_name": "Next Big What",
-    "submission_url": "https://nextbigwhat.com",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI-Powered Lead Generation Pipeline",
-      "description": "An open-source, mobile-first AI agent that transforms Google Maps data into verified, qualified leads. Bring your own API keys, self-host for free, and run your entire outbound pipeline from your phone."
-    },
-    "credentials": null,
-    "form_path": "https://nextbigwhat.com/",
-    "form_fields": [],
-    "status": "no_form_found"
-  },
-  {
     "directory_index": 181,
     "directory_name": "NoCode Tech",
     "submission_url": "https://www.nocode.tech/tools",
@@ -3557,8 +3068,8 @@
             "type": "search",
             "name": "query",
             "id": "search-3",
-            "placeholder": "Search\u2026",
-            "label": "Search\u2026",
+            "placeholder": "Search…",
+            "label": "Search…",
             "required": true
           }
         ]
@@ -3608,8 +3119,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 GTM Engineering as Code",
-      "description": "A precision-engineered lead enrichment pipeline that runs on your infrastructure. Scrape Google Maps, find decision makers, verify emails, and launch personalized outreach \u2014 all without paying $2K/month for a black box."
+      "title": "YOUR_PRODUCT_NAME — GTM Engineering as Code",
+      "description": "A precision-engineered lead enrichment pipeline that runs on your infrastructure. Scrape Google Maps, find decision makers, verify emails, and launch personalized outreach — all without paying $2K/month for a black box."
     },
     "credentials": null,
     "form_path": "https://openstartuplist.com/#contact-us",
@@ -3703,7 +3214,7 @@
     "auth_type": "email_password",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Turn Google Maps Into Leads",
+      "title": "YOUR_PRODUCT_NAME — Turn Google Maps Into Leads",
       "description": "Extract high-intent business leads from Google Maps, enrich them with deep research, verify decision-maker emails, and manage everything from your phone. Open-source and MIT licensed."
     },
     "credentials": {
@@ -3774,7 +3285,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Mobile-First AI Outreach Platform",
+      "title": "YOUR_PRODUCT_NAME — Mobile-First AI Outreach Platform",
       "description": "Run your entire lead generation pipeline from your smartphone. YOUR_PRODUCT_NAME scrapes Google Maps, mines contacts, finds decision makers, and verifies emails. Open-source, self-hosted, and credit-based pricing."
     },
     "credentials": null,
@@ -3790,7 +3301,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Kill the SaaS Bloat in Your Sales Stack",
-      "description": "Replace Zapier chains and expensive SaaS tools with a single open-source AI agent. YOUR_PRODUCT_NAME enriches Google Maps leads through a 5-step pipeline \u2014 all running on your own infrastructure."
+      "description": "Replace Zapier chains and expensive SaaS tools with a single open-source AI agent. YOUR_PRODUCT_NAME enriches Google Maps leads through a 5-step pipeline — all running on your own infrastructure."
     },
     "credentials": null,
     "form_path": "https://docs.google.com/forms/d/e/1FAIpQLSdcuIN_dg9Xes5f9kCXb-C_Th3DYJGKWafaBgXgZY7tcJxXMw/viewform",
@@ -3846,7 +3357,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 71% Cheaper Than a Human SDR",
+      "title": "YOUR_PRODUCT_NAME — 71% Cheaper Than a Human SDR",
       "description": "Open-source AI SDR agent that costs $8K/year instead of $98K. Scrape Google Maps, find decision makers, verify emails, and sanitize data. Self-hosted with BYOK support. MIT licensed."
     },
     "credentials": null,
@@ -3899,7 +3410,7 @@
     "captcha_type": "recaptcha_v2",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Bring Your Own Keys, Pay Nothing Extra",
-      "description": "Plug in your own API keys for RapidAPI, OpenAI, and Anymail Finder \u2014 every pipeline step that uses your key costs zero credits. Self-host the entire platform for free under the MIT license."
+      "description": "Plug in your own API keys for RapidAPI, OpenAI, and Anymail Finder — every pipeline step that uses your key costs zero credits. Self-host the entire platform for free under the MIT license."
     },
     "credentials": null,
     "form_path": null,
@@ -3914,7 +3425,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Lead Gen for GTM Engineers",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Lead Gen for GTM Engineers",
       "description": "Built for the modern GTM engineer. A self-hosted 5-step pipeline that extracts leads from Google Maps, enriches contacts, identifies decision makers, and verifies emails. Run it all from your phone."
     },
     "credentials": null,
@@ -3984,7 +3495,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 The Anti-SaaS Sales Stack",
+      "title": "YOUR_PRODUCT_NAME — The Anti-SaaS Sales Stack",
       "description": "No more sync states, no more security risks, no more cost spirals. YOUR_PRODUCT_NAME is a self-hosted AI SDR that runs your entire outbound pipeline on your infrastructure. MIT license, full data ownership."
     },
     "credentials": null,
@@ -4015,7 +3526,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI-Powered B2B Lead Pipeline",
+      "title": "YOUR_PRODUCT_NAME — AI-Powered B2B Lead Pipeline",
       "description": "Transform hyper-local Google Maps data into verified B2B leads. YOUR_PRODUCT_NAME handles the full enrichment pipeline: scraping, contact discovery, DM identification, email verification, and data sanitization."
     },
     "credentials": null,
@@ -4064,7 +3575,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Speed to Lead, From Your Phone",
+      "title": "YOUR_PRODUCT_NAME — Speed to Lead, From Your Phone",
       "description": "A mobile-first AI SDR agent. Swipe to approve leads, trigger AI sequences, and track your pipeline in real-time. Built for GTM engineers who move fast. Open-source and self-hosted."
     },
     "credentials": null,
@@ -4175,7 +3686,7 @@
     "auth_type": "email_password",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Alternative to Apollo & Instantly",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Alternative to Apollo & Instantly",
       "description": "Why pay thousands for black-box outreach tools? YOUR_PRODUCT_NAME gives you the full lead enrichment pipeline as open-source code. Self-host it, bring your own API keys, own your data."
     },
     "credentials": {
@@ -4197,8 +3708,8 @@
             "type": "text",
             "name": "phone",
             "id": "phone",
-            "placeholder": "\u0627\u062f\u062e\u0644 \u0643\u0648\u062f \u0627\u0644\u062f\u062e\u0648\u0644",
-            "label": "\u0643\u0648\u062f \u0627\u0644\u062f\u062e\u0648\u0644",
+            "placeholder": "ادخل كود الدخول",
+            "label": "كود الدخول",
             "required": true
           },
           {
@@ -4206,8 +3717,8 @@
             "type": "password",
             "name": "password",
             "id": "password",
-            "placeholder": "\u0627\u062f\u062e\u0644 \u0643\u0644\u0645\u0629 \u0627\u0644\u0645\u0631\u0648\u0631",
-            "label": "\u0643\u0644\u0645\u0629 \u0627\u0644\u0645\u0631\u0648\u0631",
+            "placeholder": "ادخل كلمة المرور",
+            "label": "كلمة المرور",
             "required": true
           }
         ]
@@ -4224,7 +3735,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Outbound Lead Gen Without the SaaS Tax",
-      "description": "Open-source AI SDR agent that replaces your expensive sales stack. From Google Maps scraping to verified decision-maker emails \u2014 all in a single, self-hosted platform with credit-based pricing."
+      "description": "Open-source AI SDR agent that replaces your expensive sales stack. From Google Maps scraping to verified decision-maker emails — all in a single, self-hosted platform with credit-based pricing."
     },
     "credentials": null,
     "form_path": "https://www.serchen.com/Default.aspx",
@@ -4257,7 +3768,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 The $8K/Year SDR Replacement",
+      "title": "YOUR_PRODUCT_NAME — The $8K/Year SDR Replacement",
       "description": "Total annual cost: $8K vs $98K for a human SDR. YOUR_PRODUCT_NAME automates lead scraping, contact enrichment, decision-maker identification, and email verification. MIT licensed, mobile-first."
     },
     "credentials": null,
@@ -4328,7 +3839,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: AI Lead Enrichment in 5 Steps",
-      "description": "Map Scrape \u2192 Contact Mining \u2192 DM Identification \u2192 Email Verification \u2192 Data Sanitization. A complete AI-powered pipeline that turns Google Maps businesses into outreach-ready leads."
+      "description": "Map Scrape → Contact Mining → DM Identification → Email Verification → Data Sanitization. A complete AI-powered pipeline that turns Google Maps businesses into outreach-ready leads."
     },
     "credentials": null,
     "form_path": "https://sideprojects.net/",
@@ -4361,7 +3872,7 @@
     "auth_type": "email_password",
     "captcha_type": "recaptcha_v2",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Own Your Pipeline, Not Rent It",
+      "title": "YOUR_PRODUCT_NAME — Own Your Pipeline, Not Rent It",
       "description": "Self-hosted lead generation powered by AI. Scrape hyper-local leads from Google Maps, enrich with verified contacts, and manage from your phone. No third-party data risk, MIT licensed."
     },
     "credentials": {
@@ -4416,7 +3927,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI SDR for Solo Founders & Agencies",
+      "title": "YOUR_PRODUCT_NAME — AI SDR for Solo Founders & Agencies",
       "description": "Whether you're a solo GTM engineer or running an agency, YOUR_PRODUCT_NAME scales with you. Free tier with 100 credits, or self-host for unlimited leads. Google Maps to verified emails in minutes."
     },
     "credentials": null,
@@ -4450,8 +3961,8 @@
             "type": "search",
             "name": "",
             "id": "",
-            "placeholder": "What are the best\u2026",
-            "label": "What are the best\u2026",
+            "placeholder": "What are the best…",
+            "label": "What are the best…",
             "required": false
           }
         ]
@@ -4488,8 +3999,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Full-Stack Lead Gen, Zero Lock-In",
-      "description": "Scrape, enrich, verify, and sanitize \u2014 all on your own infrastructure. YOUR_PRODUCT_NAME is the MIT-licensed AI SDR agent with BYOK support. Your keys, your data, your pipeline."
+      "title": "YOUR_PRODUCT_NAME — Full-Stack Lead Gen, Zero Lock-In",
+      "description": "Scrape, enrich, verify, and sanitize — all on your own infrastructure. YOUR_PRODUCT_NAME is the MIT-licensed AI SDR agent with BYOK support. Your keys, your data, your pipeline."
     },
     "credentials": null,
     "form_path": null,
@@ -4519,8 +4030,8 @@
     "auth_type": "email_password",
     "captcha_type": "recaptcha_v2",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source AI SDR Agent",
-      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization \u2014 all from your phone."
+      "title": "YOUR_PRODUCT_NAME — Open-Source AI SDR Agent",
+      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization — all from your phone."
     },
     "credentials": {
       "email": "YOUR_EMAIL",
@@ -4692,7 +4203,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Replace Your $100K Sales Stack",
-      "description": "Stop paying the SaaS tax on outreach. YOUR_PRODUCT_NAME is a self-hosted AI SDR agent that scrapes Google Maps, mines contacts, identifies decision makers, and verifies emails \u2014 a complete 5-step enrichment pipeline running on your infrastructure."
+      "description": "Stop paying the SaaS tax on outreach. YOUR_PRODUCT_NAME is a self-hosted AI SDR agent that scrapes Google Maps, mines contacts, identifies decision makers, and verifies emails — a complete 5-step enrichment pipeline running on your infrastructure."
     },
     "credentials": null,
     "form_path": "https://www.spacebandits.io/startups",
@@ -4759,7 +4270,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI-Powered Lead Generation Pipeline",
+      "title": "YOUR_PRODUCT_NAME — AI-Powered Lead Generation Pipeline",
       "description": "An open-source, mobile-first AI agent that transforms Google Maps data into verified, qualified leads. Bring your own API keys, self-host for free, and run your entire outbound pipeline from your phone."
     },
     "credentials": null,
@@ -4790,8 +4301,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 GTM Engineering as Code",
-      "description": "A precision-engineered lead enrichment pipeline that runs on your infrastructure. Scrape Google Maps, find decision makers, verify emails, and launch personalized outreach \u2014 all without paying $2K/month for a black box."
+      "title": "YOUR_PRODUCT_NAME — GTM Engineering as Code",
+      "description": "A precision-engineered lead enrichment pipeline that runs on your infrastructure. Scrape Google Maps, find decision makers, verify emails, and launch personalized outreach — all without paying $2K/month for a black box."
     },
     "credentials": null,
     "form_path": null,
@@ -4822,7 +4333,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Turn Google Maps Into Leads",
+      "title": "YOUR_PRODUCT_NAME — Turn Google Maps Into Leads",
       "description": "Extract high-intent business leads from Google Maps, enrich them with deep research, verify decision-maker emails, and manage everything from your phone. Open-source and MIT licensed."
     },
     "credentials": null,
@@ -4976,7 +4487,7 @@
     "auth_type": "none",
     "captcha_type": "recaptcha_v3",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Mobile-First AI Outreach Platform",
+      "title": "YOUR_PRODUCT_NAME — Mobile-First AI Outreach Platform",
       "description": "Run your entire lead generation pipeline from your smartphone. YOUR_PRODUCT_NAME scrapes Google Maps, mines contacts, finds decision makers, and verifies emails. Open-source, self-hosted, and credit-based pricing."
     },
     "credentials": null,
@@ -5011,7 +4522,7 @@
     "captcha_type": "recaptcha_v2",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Kill the SaaS Bloat in Your Sales Stack",
-      "description": "Replace Zapier chains and expensive SaaS tools with a single open-source AI agent. YOUR_PRODUCT_NAME enriches Google Maps leads through a 5-step pipeline \u2014 all running on your own infrastructure."
+      "description": "Replace Zapier chains and expensive SaaS tools with a single open-source AI agent. YOUR_PRODUCT_NAME enriches Google Maps leads through a 5-step pipeline — all running on your own infrastructure."
     },
     "credentials": {
       "email": "YOUR_EMAIL",
@@ -5030,7 +4541,7 @@
     "auth_type": "none",
     "captcha_type": "recaptcha_v2",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 71% Cheaper Than a Human SDR",
+      "title": "YOUR_PRODUCT_NAME — 71% Cheaper Than a Human SDR",
       "description": "Open-source AI SDR agent that costs $8K/year instead of $98K. Scrape Google Maps, find decision makers, verify emails, and sanitize data. Self-hosted with BYOK support. MIT licensed."
     },
     "credentials": null,
@@ -5065,7 +4576,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Bring Your Own Keys, Pay Nothing Extra",
-      "description": "Plug in your own API keys for RapidAPI, OpenAI, and Anymail Finder \u2014 every pipeline step that uses your key costs zero credits. Self-host the entire platform for free under the MIT license."
+      "description": "Plug in your own API keys for RapidAPI, OpenAI, and Anymail Finder — every pipeline step that uses your key costs zero credits. Self-host the entire platform for free under the MIT license."
     },
     "credentials": null,
     "form_path": "https://startups.watch/",
@@ -5098,7 +4609,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Lead Gen for GTM Engineers",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Lead Gen for GTM Engineers",
       "description": "Built for the modern GTM engineer. A self-hosted 5-step pipeline that extracts leads from Google Maps, enriches contacts, identifies decision makers, and verifies emails. Run it all from your phone."
     },
     "credentials": null,
@@ -5126,47 +4637,13 @@
     "notes": "Blog, search only"
   },
   {
-    "directory_index": 310,
-    "directory_name": "Surges",
-    "submission_url": "https://www.surges.co",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME: AI Sales Agent That Runs 24/7",
-      "description": "Your AI SDR never sleeps. YOUR_PRODUCT_NAME automates map scraping, contact mining, DM identification, email verification, and data cleanup. Self-hosted, open-source, and mobile-first."
-    },
-    "credentials": null,
-    "form_path": "https://www.surges.co/",
-    "form_fields": [
-      {
-        "action": "https://www.surges.co/wp-admin/admin-ajax.php?action=tnp&na=s",
-        "method": "post",
-        "id": "",
-        "class": "",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "email",
-            "name": "ne",
-            "id": "tnp-1",
-            "placeholder": "Enter your email address",
-            "label": "Email",
-            "required": true
-          }
-        ]
-      }
-    ],
-    "status": "skipped",
-    "notes": "Newsletter only"
-  },
-  {
     "directory_index": 312,
     "directory_name": "Taalk",
     "submission_url": "https://taalk.com/submit-startup",
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 The Anti-SaaS Sales Stack",
+      "title": "YOUR_PRODUCT_NAME — The Anti-SaaS Sales Stack",
       "description": "No more sync states, no more security risks, no more cost spirals. YOUR_PRODUCT_NAME is a self-hosted AI SDR that runs your entire outbound pipeline on your infrastructure. MIT license, full data ownership."
     },
     "credentials": null,
@@ -5308,7 +4785,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI-Powered B2B Lead Pipeline",
+      "title": "YOUR_PRODUCT_NAME — AI-Powered B2B Lead Pipeline",
       "description": "Transform hyper-local Google Maps data into verified B2B leads. YOUR_PRODUCT_NAME handles the full enrichment pipeline: scraping, contact discovery, DM identification, email verification, and data sanitization."
     },
     "credentials": null,
@@ -5336,47 +4813,13 @@
     "notes": "Education resource, search only"
   },
   {
-    "directory_index": 315,
-    "directory_name": "Tech",
-    "submission_url": "https://tech.eu",
-    "auth_type": "none",
-    "captcha_type": "cloudflare_turnstile",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME: No Vendor Lock-In Lead Generation",
-      "description": "Clone the repo, add your API keys, run docker-compose up. Your leads, your data, your infrastructure. YOUR_PRODUCT_NAME is the open-source alternative to $2K/month outreach platforms."
-    },
-    "credentials": null,
-    "form_path": "https://tech.eu/",
-    "form_fields": [
-      {
-        "action": "https://tech.eu/",
-        "method": "get",
-        "id": "widgetNewsletterForm",
-        "class": "",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "email",
-            "name": "email",
-            "id": "newsletterInput",
-            "placeholder": "name@provider.com",
-            "label": "name@provider.com",
-            "required": false
-          }
-        ]
-      }
-    ],
-    "status": "skipped",
-    "notes": "Editorial/press platform; no straightforward free directory listing form."
-  },
-  {
     "directory_index": 318,
     "directory_name": "Tech Dirt",
     "submission_url": "http://techdirt.com/submitstory.php",
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Speed to Lead, From Your Phone",
+      "title": "YOUR_PRODUCT_NAME — Speed to Lead, From Your Phone",
       "description": "A mobile-first AI SDR agent. Swipe to approve leads, trigger AI sequences, and track your pipeline in real-time. Built for GTM engineers who move fast. Open-source and self-hosted."
     },
     "credentials": null,
@@ -5600,40 +5043,6 @@
     "submit_note": "Submitted. Sucuri WAF warning but form cleared."
   },
   {
-    "directory_index": 323,
-    "directory_name": "TechBoard",
-    "submission_url": "https://techboard.com.au",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Alternative to Apollo & Instantly",
-      "description": "Why pay thousands for black-box outreach tools? YOUR_PRODUCT_NAME gives you the full lead enrichment pipeline as open-source code. Self-host it, bring your own API keys, own your data."
-    },
-    "credentials": null,
-    "form_path": "https://techboard.com.au/",
-    "form_fields": [
-      {
-        "action": "https://techboard.com.au/",
-        "method": "post",
-        "id": "",
-        "class": "",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "email",
-            "name": "email",
-            "id": "mailchimp-top-bar__email",
-            "placeholder": "Your email address.",
-            "label": "Sign up to access the Best Funding Data on Aussie Startups",
-            "required": true
-          }
-        ]
-      }
-    ],
-    "status": "skipped",
-    "notes": "AU tech news, newsletter only"
-  },
-  {
     "directory_index": 325,
     "directory_name": "Techendo",
     "submission_url": "http://techendo.com/beta",
@@ -5641,46 +5050,12 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Outbound Lead Gen Without the SaaS Tax",
-      "description": "Open-source AI SDR agent that replaces your expensive sales stack. From Google Maps scraping to verified decision-maker emails \u2014 all in a single, self-hosted platform with credit-based pricing."
+      "description": "Open-source AI SDR agent that replaces your expensive sales stack. From Google Maps scraping to verified decision-maker emails — all in a single, self-hosted platform with credit-based pricing."
     },
     "credentials": null,
     "form_path": null,
     "form_fields": null,
     "status": "timeout"
-  },
-  {
-    "directory_index": 329,
-    "directory_name": "The Fascination",
-    "submission_url": "https://thefascination.com",
-    "auth_type": "none",
-    "captcha_type": "recaptcha_v3",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 The $8K/Year SDR Replacement",
-      "description": "Total annual cost: $8K vs $98K for a human SDR. YOUR_PRODUCT_NAME automates lead scraping, contact enrichment, decision-maker identification, and email verification. MIT licensed, mobile-first."
-    },
-    "credentials": null,
-    "form_path": "https://thefascination.com/lander/stories/",
-    "form_fields": [
-      {
-        "action": "https://thefascination.com/lander/stories/#",
-        "method": "post",
-        "id": "",
-        "class": "tw-w-full",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "email",
-            "name": "email",
-            "id": "",
-            "placeholder": "email address",
-            "label": "email address",
-            "required": true
-          }
-        ]
-      }
-    ],
-    "status": "skipped",
-    "notes": "Not a directory submission site; appears to be editorial/review content portal with no listing form."
   },
   {
     "directory_index": 330,
@@ -5690,7 +5065,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: AI Lead Enrichment in 5 Steps",
-      "description": "Map Scrape \u2192 Contact Mining \u2192 DM Identification \u2192 Email Verification \u2192 Data Sanitization. A complete AI-powered pipeline that turns Google Maps businesses into outreach-ready leads."
+      "description": "Map Scrape → Contact Mining → DM Identification → Email Verification → Data Sanitization. A complete AI-powered pipeline that turns Google Maps businesses into outreach-ready leads."
     },
     "credentials": null,
     "form_path": null,
@@ -5705,7 +5080,7 @@
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Own Your Pipeline, Not Rent It",
+      "title": "YOUR_PRODUCT_NAME — Own Your Pipeline, Not Rent It",
       "description": "Self-hosted lead generation powered by AI. Scrape hyper-local leads from Google Maps, enrich with verified contacts, and manage from your phone. No third-party data risk, MIT licensed."
     },
     "credentials": null,
@@ -5737,7 +5112,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI SDR for Solo Founders & Agencies",
+      "title": "YOUR_PRODUCT_NAME — AI SDR for Solo Founders & Agencies",
       "description": "Whether you're a solo GTM engineer or running an agency, YOUR_PRODUCT_NAME scales with you. Free tier with 100 credits, or self-host for unlimited leads. Google Maps to verified emails in minutes."
     },
     "credentials": null,
@@ -5769,8 +5144,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Full-Stack Lead Gen, Zero Lock-In",
-      "description": "Scrape, enrich, verify, and sanitize \u2014 all on your own infrastructure. YOUR_PRODUCT_NAME is the MIT-licensed AI SDR agent with BYOK support. Your keys, your data, your pipeline."
+      "title": "YOUR_PRODUCT_NAME — Full-Stack Lead Gen, Zero Lock-In",
+      "description": "Scrape, enrich, verify, and sanitize — all on your own infrastructure. YOUR_PRODUCT_NAME is the MIT-licensed AI SDR agent with BYOK support. Your keys, your data, your pipeline."
     },
     "credentials": null,
     "form_path": "https://thingtesting.com/submit-brand",
@@ -5859,8 +5234,8 @@
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source AI SDR Agent",
-      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization \u2014 all from your phone."
+      "title": "YOUR_PRODUCT_NAME — Open-Source AI SDR Agent",
+      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization — all from your phone."
     },
     "credentials": null,
     "form_path": "https://www.tumblr.com/",
@@ -5894,7 +5269,7 @@
     "captcha_type": "recaptcha_v2",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Replace Your $100K Sales Stack",
-      "description": "Stop paying the SaaS tax on outreach. YOUR_PRODUCT_NAME is a self-hosted AI SDR agent that scrapes Google Maps, mines contacts, identifies decision makers, and verifies emails \u2014 a complete 5-step enrichment pipeline running on your infrastructure."
+      "description": "Stop paying the SaaS tax on outreach. YOUR_PRODUCT_NAME is a self-hosted AI SDR agent that scrapes Google Maps, mines contacts, identifies decision makers, and verifies emails — a complete 5-step enrichment pipeline running on your infrastructure."
     },
     "credentials": null,
     "form_path": "https://unboxingstartups.com/contact/",
@@ -5954,7 +5329,7 @@
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI-Powered Lead Generation Pipeline",
+      "title": "YOUR_PRODUCT_NAME — AI-Powered Lead Generation Pipeline",
       "description": "An open-source, mobile-first AI agent that transforms Google Maps data into verified, qualified leads. Bring your own API keys, self-host for free, and run your entire outbound pipeline from your phone."
     },
     "credentials": null,
@@ -5986,7 +5361,7 @@
             "type": "search",
             "name": "s",
             "id": "",
-            "placeholder": "Search \u2026",
+            "placeholder": "Search …",
             "label": "Search for:",
             "required": false
           }
@@ -6003,7 +5378,7 @@
             "type": "search",
             "name": "s",
             "id": "",
-            "placeholder": "Search \u2026",
+            "placeholder": "Search …",
             "label": "Search for:",
             "required": false
           }
@@ -6020,7 +5395,7 @@
             "type": "search",
             "name": "s",
             "id": "",
-            "placeholder": "Search \u2026",
+            "placeholder": "Search …",
             "label": "Search for:",
             "required": false
           }
@@ -6037,8 +5412,8 @@
     "auth_type": "email_password",
     "captcha_type": "recaptcha_v2",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 GTM Engineering as Code",
-      "description": "A precision-engineered lead enrichment pipeline that runs on your infrastructure. Scrape Google Maps, find decision makers, verify emails, and launch personalized outreach \u2014 all without paying $2K/month for a black box."
+      "title": "YOUR_PRODUCT_NAME — GTM Engineering as Code",
+      "description": "A precision-engineered lead enrichment pipeline that runs on your infrastructure. Scrape Google Maps, find decision makers, verify emails, and launch personalized outreach — all without paying $2K/month for a black box."
     },
     "credentials": {
       "email": "YOUR_EMAIL",
@@ -6123,7 +5498,7 @@
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Turn Google Maps Into Leads",
+      "title": "YOUR_PRODUCT_NAME — Turn Google Maps Into Leads",
       "description": "Extract high-intent business leads from Google Maps, enrich them with deep research, verify decision-maker emails, and manage everything from your phone. Open-source and MIT licensed."
     },
     "credentials": null,
@@ -6151,28 +5526,13 @@
     "notes": "Domain parked/for sale on HugeDomains; no submission directory available."
   },
   {
-    "directory_index": 369,
-    "directory_name": "Web Tools Weekly",
-    "submission_url": "http://webtoolsweekly.com/submit",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME: AI Lead Enrichment, Self-Hosted",
-      "description": "A 5-step AI pipeline that takes Google Maps businesses and produces verified, ready-to-email leads. Self-host for free with your own API keys, or use the managed platform. No vendor lock-in."
-    },
-    "credentials": null,
-    "form_path": "https://webtoolsweekly.com/submit",
-    "form_fields": [],
-    "status": "no_form_found"
-  },
-  {
     "directory_index": 370,
     "directory_name": "Web Wiki",
     "submission_url": "https://www.webwiki.com/info/add-websit",
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Mobile-First AI Outreach Platform",
+      "title": "YOUR_PRODUCT_NAME — Mobile-First AI Outreach Platform",
       "description": "Run your entire lead generation pipeline from your smartphone. YOUR_PRODUCT_NAME scrapes Google Maps, mines contacts, finds decision makers, and verifies emails. Open-source, self-hosted, and credit-based pricing."
     },
     "credentials": null,
@@ -6207,7 +5567,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Kill the SaaS Bloat in Your Sales Stack",
-      "description": "Replace Zapier chains and expensive SaaS tools with a single open-source AI agent. YOUR_PRODUCT_NAME enriches Google Maps leads through a 5-step pipeline \u2014 all running on your own infrastructure."
+      "description": "Replace Zapier chains and expensive SaaS tools with a single open-source AI agent. YOUR_PRODUCT_NAME enriches Google Maps leads through a 5-step pipeline — all running on your own infrastructure."
     },
     "credentials": null,
     "form_path": "https://webrazzi.com/en/startup-form",
@@ -6285,7 +5645,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 71% Cheaper Than a Human SDR",
+      "title": "YOUR_PRODUCT_NAME — 71% Cheaper Than a Human SDR",
       "description": "Open-source AI SDR agent that costs $8K/year instead of $98K. Scrape Google Maps, find decision makers, verify emails, and sanitize data. Self-hosted with BYOK support. MIT licensed."
     },
     "credentials": null,
@@ -6329,7 +5689,7 @@
     "captcha_type": "captcha_unknown",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Bring Your Own Keys, Pay Nothing Extra",
-      "description": "Plug in your own API keys for RapidAPI, OpenAI, and Anymail Finder \u2014 every pipeline step that uses your key costs zero credits. Self-host the entire platform for free under the MIT license."
+      "description": "Plug in your own API keys for RapidAPI, OpenAI, and Anymail Finder — every pipeline step that uses your key costs zero credits. Self-host the entire platform for free under the MIT license."
     },
     "credentials": null,
     "form_path": "https://www.youngupstarts.com/",
@@ -6362,7 +5722,7 @@
     "auth_type": "none",
     "captcha_type": "recaptcha_v3",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Lead Gen for GTM Engineers",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Lead Gen for GTM Engineers",
       "description": "Built for the modern GTM engineer. A self-hosted 5-step pipeline that extracts leads from Google Maps, enriches contacts, identifies decision makers, and verifies emails. Run it all from your phone."
     },
     "credentials": null,
@@ -6392,7 +5752,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 The Anti-SaaS Sales Stack",
+      "title": "YOUR_PRODUCT_NAME — The Anti-SaaS Sales Stack",
       "description": "No more sync states, no more security risks, no more cost spirals. YOUR_PRODUCT_NAME is a self-hosted AI SDR that runs your entire outbound pipeline on your infrastructure. MIT license, full data ownership."
     },
     "credentials": null,
@@ -6469,7 +5829,7 @@
     "auth_type": "none",
     "captcha_type": "recaptcha_v2",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI-Powered B2B Lead Pipeline",
+      "title": "YOUR_PRODUCT_NAME — AI-Powered B2B Lead Pipeline",
       "description": "Transform hyper-local Google Maps data into verified B2B leads. YOUR_PRODUCT_NAME handles the full enrichment pipeline: scraping, contact discovery, DM identification, email verification, and data sanitization."
     },
     "credentials": null,
@@ -6548,7 +5908,7 @@
       }
     ],
     "status": "submitted",
-    "notes": "Manually submitted with captcha solved. Confirmation: Vielen Dank f\u00fcr die Einreichung!"
+    "notes": "Manually submitted with captcha solved. Confirmation: Vielen Dank für die Einreichung!"
   },
   {
     "directory_index": 394,
@@ -6920,7 +6280,7 @@
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Speed to Lead, From Your Phone",
+      "title": "YOUR_PRODUCT_NAME — Speed to Lead, From Your Phone",
       "description": "A mobile-first AI SDR agent. Swipe to approve leads, trigger AI sequences, and track your pipeline in real-time. Built for GTM engineers who move fast. Open-source and self-hosted."
     },
     "credentials": null,
@@ -7068,7 +6428,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Alternative to Apollo & Instantly",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Alternative to Apollo & Instantly",
       "description": "Why pay thousands for black-box outreach tools? YOUR_PRODUCT_NAME gives you the full lead enrichment pipeline as open-source code. Self-host it, bring your own API keys, own your data."
     },
     "credentials": null,
@@ -7148,7 +6508,7 @@
     "captcha_type": "captcha_unknown",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Outbound Lead Gen Without the SaaS Tax",
-      "description": "Open-source AI SDR agent that replaces your expensive sales stack. From Google Maps scraping to verified decision-maker emails \u2014 all in a single, self-hosted platform with credit-based pricing."
+      "description": "Open-source AI SDR agent that replaces your expensive sales stack. From Google Maps scraping to verified decision-maker emails — all in a single, self-hosted platform with credit-based pricing."
     },
     "credentials": null,
     "form_path": "https://ailib.ru/",
@@ -7164,8 +6524,8 @@
             "type": "search",
             "name": "s",
             "id": "search-input-3fd1c3c",
-            "placeholder": "\u041f\u043e\u0438\u0441\u043a...",
-            "label": "\u041f\u043e\u0438\u0441\u043a ...",
+            "placeholder": "Поиск...",
+            "label": "Поиск ...",
             "required": false
           }
         ]
@@ -7181,8 +6541,8 @@
             "type": "search",
             "name": "s",
             "id": "search-input-10ce9f1",
-            "placeholder": "\u041d\u0430\u0447\u043d\u0438\u0442\u0435 \u0432\u0432\u043e\u0434\u0438\u0442\u044c...",
-            "label": "\u041f\u043e\u0438\u0441\u043a ...",
+            "placeholder": "Начните вводить...",
+            "label": "Поиск ...",
             "required": false
           }
         ]
@@ -7198,7 +6558,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 The $8K/Year SDR Replacement",
+      "title": "YOUR_PRODUCT_NAME — The $8K/Year SDR Replacement",
       "description": "Total annual cost: $8K vs $98K for a human SDR. YOUR_PRODUCT_NAME automates lead scraping, contact enrichment, decision-maker identification, and email verification. MIT licensed, mobile-first."
     },
     "credentials": null,
@@ -7214,7 +6574,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: AI Lead Enrichment in 5 Steps",
-      "description": "Map Scrape \u2192 Contact Mining \u2192 DM Identification \u2192 Email Verification \u2192 Data Sanitization. A complete AI-powered pipeline that turns Google Maps businesses into outreach-ready leads."
+      "description": "Map Scrape → Contact Mining → DM Identification → Email Verification → Data Sanitization. A complete AI-powered pipeline that turns Google Maps businesses into outreach-ready leads."
     },
     "credentials": null,
     "form_path": "https://ai-search.io/submit",
@@ -7598,7 +6958,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Own Your Pipeline, Not Rent It",
+      "title": "YOUR_PRODUCT_NAME — Own Your Pipeline, Not Rent It",
       "description": "Self-hosted lead generation powered by AI. Scrape hyper-local leads from Google Maps, enrich with verified contacts, and manage from your phone. No third-party data risk, MIT licensed."
     },
     "credentials": null,
@@ -7674,7 +7034,7 @@
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI SDR for Solo Founders & Agencies",
+      "title": "YOUR_PRODUCT_NAME — AI SDR for Solo Founders & Agencies",
       "description": "Whether you're a solo GTM engineer or running an agency, YOUR_PRODUCT_NAME scales with you. Free tier with 100 credits, or self-host for unlimited leads. Google Maps to verified emails in minutes."
     },
     "credentials": null,
@@ -7737,8 +7097,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Full-Stack Lead Gen, Zero Lock-In",
-      "description": "Scrape, enrich, verify, and sanitize \u2014 all on your own infrastructure. YOUR_PRODUCT_NAME is the MIT-licensed AI SDR agent with BYOK support. Your keys, your data, your pipeline."
+      "title": "YOUR_PRODUCT_NAME — Full-Stack Lead Gen, Zero Lock-In",
+      "description": "Scrape, enrich, verify, and sanitize — all on your own infrastructure. YOUR_PRODUCT_NAME is the MIT-licensed AI SDR agent with BYOK support. Your keys, your data, your pipeline."
     },
     "credentials": null,
     "form_path": "https://aitoolsarena.com/",
@@ -7767,8 +7127,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source AI SDR Agent",
-      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization \u2014 all from your phone."
+      "title": "YOUR_PRODUCT_NAME — Open-Source AI SDR Agent",
+      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization — all from your phone."
     },
     "credentials": null,
     "form_path": "https://www.hcilab.org/ai-tools-directory/",
@@ -7784,8 +7144,8 @@
             "type": "text",
             "name": "s",
             "id": "",
-            "placeholder": "Search\u2026",
-            "label": "Search\u2026",
+            "placeholder": "Search…",
+            "label": "Search…",
             "required": false
           }
         ]
@@ -7802,7 +7162,7 @@
     "captcha_type": "captcha_unknown",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Replace Your $100K Sales Stack",
-      "description": "Stop paying the SaaS tax on outreach. YOUR_PRODUCT_NAME is a self-hosted AI SDR agent that scrapes Google Maps, mines contacts, identifies decision makers, and verifies emails \u2014 a complete 5-step enrichment pipeline running on your infrastructure."
+      "description": "Stop paying the SaaS tax on outreach. YOUR_PRODUCT_NAME is a self-hosted AI SDR agent that scrapes Google Maps, mines contacts, identifies decision makers, and verifies emails — a complete 5-step enrichment pipeline running on your infrastructure."
     },
     "credentials": null,
     "form_path": "https://aitoolsguide.com/contact/",
@@ -7889,7 +7249,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI-Powered Lead Generation Pipeline",
+      "title": "YOUR_PRODUCT_NAME — AI-Powered Lead Generation Pipeline",
       "description": "An open-source, mobile-first AI agent that transforms Google Maps data into verified, qualified leads. Bring your own API keys, self-host for free, and run your entire outbound pipeline from your phone."
     },
     "credentials": null,
@@ -8038,7 +7398,7 @@
             "type": "search",
             "name": "s",
             "id": "",
-            "placeholder": "Search AI Tools\u2026",
+            "placeholder": "Search AI Tools…",
             "label": "Search for:",
             "required": false
           }
@@ -8055,7 +7415,7 @@
             "type": "search",
             "name": "s",
             "id": "",
-            "placeholder": "Search AI Tools\u2026",
+            "placeholder": "Search AI Tools…",
             "label": "Search for:",
             "required": false
           }
@@ -8072,8 +7432,8 @@
     "auth_type": "none",
     "captcha_type": "recaptcha_v3",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 GTM Engineering as Code",
-      "description": "A precision-engineered lead enrichment pipeline that runs on your infrastructure. Scrape Google Maps, find decision makers, verify emails, and launch personalized outreach \u2014 all without paying $2K/month for a black box."
+      "title": "YOUR_PRODUCT_NAME — GTM Engineering as Code",
+      "description": "A precision-engineered lead enrichment pipeline that runs on your infrastructure. Scrape Google Maps, find decision makers, verify emails, and launch personalized outreach — all without paying $2K/month for a black box."
     },
     "credentials": null,
     "form_path": "https://aitrendz.xyz/submit-ai-link/",
@@ -8160,7 +7520,7 @@
             "name": "wpforms[fields][23]",
             "id": "wpforms-12226-field_23_1",
             "placeholder": "",
-            "label": "Basic Listing - 29,99 \u20ac",
+            "label": "Basic Listing - 29,99 €",
             "required": false
           },
           {
@@ -8169,7 +7529,7 @@
             "name": "wpforms[fields][23]",
             "id": "wpforms-12226-field_23_2",
             "placeholder": "",
-            "label": "Featured Listing - 59,99 \u20ac",
+            "label": "Featured Listing - 59,99 €",
             "required": false
           },
           {
@@ -8227,7 +7587,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Turn Google Maps Into Leads",
+      "title": "YOUR_PRODUCT_NAME — Turn Google Maps Into Leads",
       "description": "Extract high-intent business leads from Google Maps, enrich them with deep research, verify decision-maker emails, and manage everything from your phone. Open-source and MIT licensed."
     },
     "credentials": null,
@@ -8349,7 +7709,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Mobile-First AI Outreach Platform",
+      "title": "YOUR_PRODUCT_NAME — Mobile-First AI Outreach Platform",
       "description": "Run your entire lead generation pipeline from your smartphone. YOUR_PRODUCT_NAME scrapes Google Maps, mines contacts, finds decision makers, and verifies emails. Open-source, self-hosted, and credit-based pricing."
     },
     "credentials": null,
@@ -8440,7 +7800,7 @@
     "captcha_type": "captcha_unknown",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Kill the SaaS Bloat in Your Sales Stack",
-      "description": "Replace Zapier chains and expensive SaaS tools with a single open-source AI agent. YOUR_PRODUCT_NAME enriches Google Maps leads through a 5-step pipeline \u2014 all running on your own infrastructure."
+      "description": "Replace Zapier chains and expensive SaaS tools with a single open-source AI agent. YOUR_PRODUCT_NAME enriches Google Maps leads through a 5-step pipeline — all running on your own infrastructure."
     },
     "credentials": null,
     "form_path": "https://appscribed.com/product-list/",
@@ -8468,12 +7828,12 @@
   },
   {
     "directory_index": 445,
-    "directory_name": "Ben\u2019s Bites News",
+    "directory_name": "Ben’s Bites News",
     "submission_url": "https://news.bensbites.com/submit",
     "auth_type": "none",
     "captcha_type": "hcaptcha",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 71% Cheaper Than a Human SDR",
+      "title": "YOUR_PRODUCT_NAME — 71% Cheaper Than a Human SDR",
       "description": "Open-source AI SDR agent that costs $8K/year instead of $98K. Scrape Google Maps, find decision makers, verify emails, and sanitize data. Self-hosted with BYOK support. MIT licensed."
     },
     "credentials": null,
@@ -8489,7 +7849,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Bring Your Own Keys, Pay Nothing Extra",
-      "description": "Plug in your own API keys for RapidAPI, OpenAI, and Anymail Finder \u2014 every pipeline step that uses your key costs zero credits. Self-host the entire platform for free under the MIT license."
+      "description": "Plug in your own API keys for RapidAPI, OpenAI, and Anymail Finder — every pipeline step that uses your key costs zero credits. Self-host the entire platform for free under the MIT license."
     },
     "credentials": null,
     "form_path": "https://www.brouseai.com/",
@@ -8503,7 +7863,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Lead Gen for GTM Engineers",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Lead Gen for GTM Engineers",
       "description": "Built for the modern GTM engineer. A self-hosted 5-step pipeline that extracts leads from Google Maps, enriches contacts, identifies decision makers, and verifies emails. Run it all from your phone."
     },
     "credentials": null,
@@ -8569,7 +7929,7 @@
     "auth_type": "email_password",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 The Anti-SaaS Sales Stack",
+      "title": "YOUR_PRODUCT_NAME — The Anti-SaaS Sales Stack",
       "description": "No more sync states, no more security risks, no more cost spirals. YOUR_PRODUCT_NAME is a self-hosted AI SDR that runs your entire outbound pipeline on your infrastructure. MIT license, full data ownership."
     },
     "credentials": {
@@ -8713,7 +8073,7 @@
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI-Powered B2B Lead Pipeline",
+      "title": "YOUR_PRODUCT_NAME — AI-Powered B2B Lead Pipeline",
       "description": "Transform hyper-local Google Maps data into verified B2B leads. YOUR_PRODUCT_NAME handles the full enrichment pipeline: scraping, contact discovery, DM identification, email verification, and data sanitization."
     },
     "credentials": null,
@@ -8779,7 +8139,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Speed to Lead, From Your Phone",
+      "title": "YOUR_PRODUCT_NAME — Speed to Lead, From Your Phone",
       "description": "A mobile-first AI SDR agent. Swipe to approve leads, trigger AI sequences, and track your pipeline in real-time. Built for GTM engineers who move fast. Open-source and self-hosted."
     },
     "credentials": null,
@@ -8883,7 +8243,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Alternative to Apollo & Instantly",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Alternative to Apollo & Instantly",
       "description": "Why pay thousands for black-box outreach tools? YOUR_PRODUCT_NAME gives you the full lead enrichment pipeline as open-source code. Self-host it, bring your own API keys, own your data."
     },
     "credentials": null,
@@ -9044,7 +8404,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Outbound Lead Gen Without the SaaS Tax",
-      "description": "Open-source AI SDR agent that replaces your expensive sales stack. From Google Maps scraping to verified decision-maker emails \u2014 all in a single, self-hosted platform with credit-based pricing."
+      "description": "Open-source AI SDR agent that replaces your expensive sales stack. From Google Maps scraping to verified decision-maker emails — all in a single, self-hosted platform with credit-based pricing."
     },
     "credentials": null,
     "form_path": "https://www.gptshunter.com/submit-gpt",
@@ -9086,7 +8446,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 The $8K/Year SDR Replacement",
+      "title": "YOUR_PRODUCT_NAME — The $8K/Year SDR Replacement",
       "description": "Total annual cost: $8K vs $98K for a human SDR. YOUR_PRODUCT_NAME automates lead scraping, contact enrichment, decision-maker identification, and email verification. MIT licensed, mobile-first."
     },
     "credentials": null,
@@ -9129,7 +8489,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: AI Lead Enrichment in 5 Steps",
-      "description": "Map Scrape \u2192 Contact Mining \u2192 DM Identification \u2192 Email Verification \u2192 Data Sanitization. A complete AI-powered pipeline that turns Google Maps businesses into outreach-ready leads."
+      "description": "Map Scrape → Contact Mining → DM Identification → Email Verification → Data Sanitization. A complete AI-powered pipeline that turns Google Maps businesses into outreach-ready leads."
     },
     "credentials": null,
     "form_path": "https://inventlist.com/users/sign_in",
@@ -9162,7 +8522,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Own Your Pipeline, Not Rent It",
+      "title": "YOUR_PRODUCT_NAME — Own Your Pipeline, Not Rent It",
       "description": "Self-hosted lead generation powered by AI. Scrape hyper-local leads from Google Maps, enrich with verified contacts, and manage from your phone. No third-party data risk, MIT licensed."
     },
     "credentials": null,
@@ -9289,7 +8649,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI SDR for Solo Founders & Agencies",
+      "title": "YOUR_PRODUCT_NAME — AI SDR for Solo Founders & Agencies",
       "description": "Whether you're a solo GTM engineer or running an agency, YOUR_PRODUCT_NAME scales with you. Free tier with 100 credits, or self-host for unlimited leads. Google Maps to verified emails in minutes."
     },
     "credentials": null,
@@ -9362,8 +8722,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Full-Stack Lead Gen, Zero Lock-In",
-      "description": "Scrape, enrich, verify, and sanitize \u2014 all on your own infrastructure. YOUR_PRODUCT_NAME is the MIT-licensed AI SDR agent with BYOK support. Your keys, your data, your pipeline."
+      "title": "YOUR_PRODUCT_NAME — Full-Stack Lead Gen, Zero Lock-In",
+      "description": "Scrape, enrich, verify, and sanitize — all on your own infrastructure. YOUR_PRODUCT_NAME is the MIT-licensed AI SDR agent with BYOK support. Your keys, your data, your pipeline."
     },
     "credentials": null,
     "form_path": "https://www.sitelike.org/add-site",
@@ -9414,7 +8774,7 @@
             "name": "o0Zk0oGupz4FikYb02wNT",
             "id": "mui-33",
             "placeholder": "",
-            "label": "Your Name\u2009*",
+            "label": "Your Name *",
             "required": true
           },
           {
@@ -9423,7 +8783,7 @@
             "name": "3ZXMNUpw6gUGw8sXnJhUyW",
             "id": "mui-34",
             "placeholder": "",
-            "label": "Your Email Address\u2009*",
+            "label": "Your Email Address *",
             "required": true
           },
           {
@@ -9432,7 +8792,7 @@
             "name": "5kNOExmxTPdXnagFDMqrW6",
             "id": "mui-35",
             "placeholder": "",
-            "label": "What issues do you want to solve/expedite with AI?\u2009*",
+            "label": "What issues do you want to solve/expedite with AI? *",
             "required": true
           },
           {
@@ -9458,7 +8818,7 @@
             "name": "43zYlBT3AZkly7oUT94qKL",
             "id": "mui-36",
             "placeholder": "",
-            "label": "Tool name\u2009*",
+            "label": "Tool name *",
             "required": true
           },
           {
@@ -9467,7 +8827,7 @@
             "name": "1FlsL80i9gLQqrSjKN6wXD",
             "id": "mui-37",
             "placeholder": "",
-            "label": "Tool Website\u2009*",
+            "label": "Tool Website *",
             "required": true
           },
           {
@@ -9476,7 +8836,7 @@
             "name": "o0Zk0oGupz4FikYb02wNT",
             "id": "mui-38",
             "placeholder": "",
-            "label": "Your Name\u2009*",
+            "label": "Your Name *",
             "required": true
           },
           {
@@ -9485,7 +8845,7 @@
             "name": "3ZXMNUpw6gUGw8sXnJhUyW",
             "id": "mui-39",
             "placeholder": "",
-            "label": "Your Email Address\u2009*",
+            "label": "Your Email Address *",
             "required": true
           },
           {
@@ -9503,7 +8863,7 @@
             "name": "2PvdMI9S4zZopiwTnG4AxT",
             "id": "mui-40",
             "placeholder": "",
-            "label": "Tool Description\u2009*",
+            "label": "Tool Description *",
             "required": true
           },
           {
@@ -9645,8 +9005,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source AI SDR Agent",
-      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization \u2014 all from your phone."
+      "title": "YOUR_PRODUCT_NAME — Open-Source AI SDR Agent",
+      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization — all from your phone."
     },
     "credentials": null,
     "form_path": "https://supertools.therundown.ai/submit",
@@ -9689,7 +9049,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Replace Your $100K Sales Stack",
-      "description": "Stop paying the SaaS tax on outreach. YOUR_PRODUCT_NAME is a self-hosted AI SDR agent that scrapes Google Maps, mines contacts, identifies decision makers, and verifies emails \u2014 a complete 5-step enrichment pipeline running on your infrastructure."
+      "description": "Stop paying the SaaS tax on outreach. YOUR_PRODUCT_NAME is a self-hosted AI SDR agent that scrapes Google Maps, mines contacts, identifies decision makers, and verifies emails — a complete 5-step enrichment pipeline running on your infrastructure."
     },
     "credentials": null,
     "form_path": "https://www.thataicollection.com/submit/",
@@ -9704,7 +9064,7 @@
     "auth_type": "email_password",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI-Powered Lead Generation Pipeline",
+      "title": "YOUR_PRODUCT_NAME — AI-Powered Lead Generation Pipeline",
       "description": "An open-source, mobile-first AI agent that transforms Google Maps data into verified, qualified leads. Bring your own API keys, self-host for free, and run your entire outbound pipeline from your phone."
     },
     "credentials": {
@@ -9795,8 +9155,8 @@
     "auth_type": "email_password",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 GTM Engineering as Code",
-      "description": "A precision-engineered lead enrichment pipeline that runs on your infrastructure. Scrape Google Maps, find decision makers, verify emails, and launch personalized outreach \u2014 all without paying $2K/month for a black box."
+      "title": "YOUR_PRODUCT_NAME — GTM Engineering as Code",
+      "description": "A precision-engineered lead enrichment pipeline that runs on your infrastructure. Scrape Google Maps, find decision makers, verify emails, and launch personalized outreach — all without paying $2K/month for a black box."
     },
     "credentials": {
       "email": "YOUR_EMAIL",
@@ -9909,7 +9269,7 @@
     "auth_type": "none",
     "captcha_type": "hcaptcha",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Turn Google Maps Into Leads",
+      "title": "YOUR_PRODUCT_NAME — Turn Google Maps Into Leads",
       "description": "Extract high-intent business leads from Google Maps, enrich them with deep research, verify decision-maker emails, and manage everything from your phone. Open-source and MIT licensed."
     },
     "credentials": null,
@@ -10021,7 +9381,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Mobile-First AI Outreach Platform",
+      "title": "YOUR_PRODUCT_NAME — Mobile-First AI Outreach Platform",
       "description": "Run your entire lead generation pipeline from your smartphone. YOUR_PRODUCT_NAME scrapes Google Maps, mines contacts, finds decision makers, and verifies emails. Open-source, self-hosted, and credit-based pricing."
     },
     "credentials": null,
@@ -10056,7 +9416,7 @@
     "captcha_type": "captcha_unknown",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Kill the SaaS Bloat in Your Sales Stack",
-      "description": "Replace Zapier chains and expensive SaaS tools with a single open-source AI agent. YOUR_PRODUCT_NAME enriches Google Maps leads through a 5-step pipeline \u2014 all running on your own infrastructure."
+      "description": "Replace Zapier chains and expensive SaaS tools with a single open-source AI agent. YOUR_PRODUCT_NAME enriches Google Maps leads through a 5-step pipeline — all running on your own infrastructure."
     },
     "credentials": null,
     "form_path": null,
@@ -10071,7 +9431,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 71% Cheaper Than a Human SDR",
+      "title": "YOUR_PRODUCT_NAME — 71% Cheaper Than a Human SDR",
       "description": "Open-source AI SDR agent that costs $8K/year instead of $98K. Scrape Google Maps, find decision makers, verify emails, and sanitize data. Self-hosted with BYOK support. MIT licensed."
     },
     "credentials": null,
@@ -10106,7 +9466,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Bring Your Own Keys, Pay Nothing Extra",
-      "description": "Plug in your own API keys for RapidAPI, OpenAI, and Anymail Finder \u2014 every pipeline step that uses your key costs zero credits. Self-host the entire platform for free under the MIT license."
+      "description": "Plug in your own API keys for RapidAPI, OpenAI, and Anymail Finder — every pipeline step that uses your key costs zero credits. Self-host the entire platform for free under the MIT license."
     },
     "credentials": null,
     "form_path": "https://whatsthebigdata.com/submit-new-ai-tool/",
@@ -10303,8 +9663,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source AI SDR Agent",
-      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization \u2014 all from your phone."
+      "title": "YOUR_PRODUCT_NAME — Open-Source AI SDR Agent",
+      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization — all from your phone."
     },
     "credentials": null,
     "form_path": "https://lfaidata.foundation/",
@@ -10320,7 +9680,7 @@
     "captcha_type": "captcha_unknown",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Replace Your $100K Sales Stack",
-      "description": "Stop paying the SaaS tax on outreach. YOUR_PRODUCT_NAME is a self-hosted AI SDR agent that scrapes Google Maps, mines contacts, identifies decision makers, and verifies emails \u2014 a complete 5-step enrichment pipeline running on your infrastructure."
+      "description": "Stop paying the SaaS tax on outreach. YOUR_PRODUCT_NAME is a self-hosted AI SDR agent that scrapes Google Maps, mines contacts, identifies decision makers, and verifies emails — a complete 5-step enrichment pipeline running on your infrastructure."
     },
     "credentials": null,
     "form_path": "https://huggingface.co/",
@@ -10361,7 +9721,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI-Powered Lead Generation Pipeline",
+      "title": "YOUR_PRODUCT_NAME — AI-Powered Lead Generation Pipeline",
       "description": "An open-source, mobile-first AI agent that transforms Google Maps data into verified, qualified leads. Bring your own API keys, self-host for free, and run your entire outbound pipeline from your phone."
     },
     "credentials": null,
@@ -10819,8 +10179,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 GTM Engineering as Code",
-      "description": "A precision-engineered lead enrichment pipeline that runs on your infrastructure. Scrape Google Maps, find decision makers, verify emails, and launch personalized outreach \u2014 all without paying $2K/month for a black box."
+      "title": "YOUR_PRODUCT_NAME — GTM Engineering as Code",
+      "description": "A precision-engineered lead enrichment pipeline that runs on your infrastructure. Scrape Google Maps, find decision makers, verify emails, and launch personalized outreach — all without paying $2K/month for a black box."
     },
     "credentials": null,
     "form_path": "https://aitools.inc/",
@@ -10877,7 +10237,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Turn Google Maps Into Leads",
+      "title": "YOUR_PRODUCT_NAME — Turn Google Maps Into Leads",
       "description": "Extract high-intent business leads from Google Maps, enrich them with deep research, verify decision-maker emails, and manage everything from your phone. Open-source and MIT licensed."
     },
     "credentials": null,
@@ -10982,7 +10342,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Mobile-First AI Outreach Platform",
+      "title": "YOUR_PRODUCT_NAME — Mobile-First AI Outreach Platform",
       "description": "Run your entire lead generation pipeline from your smartphone. YOUR_PRODUCT_NAME scrapes Google Maps, mines contacts, finds decision makers, and verifies emails. Open-source, self-hosted, and credit-based pricing."
     },
     "credentials": null,
@@ -11030,7 +10390,7 @@
     "captcha_type": "recaptcha_v2",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Kill the SaaS Bloat in Your Sales Stack",
-      "description": "Replace Zapier chains and expensive SaaS tools with a single open-source AI agent. YOUR_PRODUCT_NAME enriches Google Maps leads through a 5-step pipeline \u2014 all running on your own infrastructure."
+      "description": "Replace Zapier chains and expensive SaaS tools with a single open-source AI agent. YOUR_PRODUCT_NAME enriches Google Maps leads through a 5-step pipeline — all running on your own infrastructure."
     },
     "credentials": null,
     "form_path": "https://airespo.com/",
@@ -11071,7 +10431,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 71% Cheaper Than a Human SDR",
+      "title": "YOUR_PRODUCT_NAME — 71% Cheaper Than a Human SDR",
       "description": "Open-source AI SDR agent that costs $8K/year instead of $98K. Scrape Google Maps, find decision makers, verify emails, and sanitize data. Self-hosted with BYOK support. MIT licensed."
     },
     "credentials": null,
@@ -11140,7 +10500,7 @@
     "captcha_type": "captcha_unknown",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Bring Your Own Keys, Pay Nothing Extra",
-      "description": "Plug in your own API keys for RapidAPI, OpenAI, and Anymail Finder \u2014 every pipeline step that uses your key costs zero credits. Self-host the entire platform for free under the MIT license."
+      "description": "Plug in your own API keys for RapidAPI, OpenAI, and Anymail Finder — every pipeline step that uses your key costs zero credits. Self-host the entire platform for free under the MIT license."
     },
     "credentials": null,
     "form_path": "https://aiappindex.com/",
@@ -11195,7 +10555,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Lead Gen for GTM Engineers",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Lead Gen for GTM Engineers",
       "description": "Built for the modern GTM engineer. A self-hosted 5-step pipeline that extracts leads from Google Maps, enriches contacts, identifies decision makers, and verifies emails. Run it all from your phone."
     },
     "credentials": null,
@@ -11236,7 +10596,7 @@
       }
     ],
     "status": "skipped_paid",
-    "notes": "Requires \u20ac49 payment to submit.",
+    "notes": "Requires €49 payment to submit.",
     "submit_result": {
       "filled": 0,
       "skipped": 1,
@@ -11245,40 +10605,6 @@
       "submitButtonText": "",
       "pageUrl": "https://listmyai.net/"
     }
-  },
-  {
-    "directory_index": 206,
-    "directory_name": "Ben's Bites",
-    "submission_url": "https://news.bensbites.com/",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 The Anti-SaaS Sales Stack",
-      "description": "No more sync states, no more security risks, no more cost spirals. YOUR_PRODUCT_NAME is a self-hosted AI SDR that runs your entire outbound pipeline on your infrastructure. MIT license, full data ownership."
-    },
-    "credentials": null,
-    "form_path": "https://news.bensbites.com/",
-    "form_fields": [
-      {
-        "action": "https://news.bensbites.com/search",
-        "method": "get",
-        "id": "",
-        "class": "",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "search",
-            "name": "q",
-            "id": "q",
-            "placeholder": "Search",
-            "label": "Search",
-            "required": false
-          }
-        ]
-      }
-    ],
-    "status": "discovered",
-    "notes": ""
   },
   {
     "directory_index": 207,
@@ -11303,7 +10629,7 @@
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI-Powered B2B Lead Pipeline",
+      "title": "YOUR_PRODUCT_NAME — AI-Powered B2B Lead Pipeline",
       "description": "Transform hyper-local Google Maps data into verified B2B leads. YOUR_PRODUCT_NAME handles the full enrichment pipeline: scraping, contact discovery, DM identification, email verification, and data sanitization."
     },
     "credentials": null,
@@ -11355,7 +10681,7 @@
         }
       ],
       "submitted": true,
-      "submitButtonText": "SUBMIT \u2192",
+      "submitButtonText": "SUBMIT →",
       "pageUrl": "https://nocodelist.co/"
     }
   },
@@ -11366,7 +10692,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Speed to Lead, From Your Phone",
+      "title": "YOUR_PRODUCT_NAME — Speed to Lead, From Your Phone",
       "description": "A mobile-first AI SDR agent. Swipe to approve leads, trigger AI sequences, and track your pipeline in real-time. Built for GTM engineers who move fast. Open-source and self-hosted."
     },
     "credentials": null,
@@ -11455,7 +10781,7 @@
     "auth_type": "none",
     "captcha_type": "captcha_unknown",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Alternative to Apollo & Instantly",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Alternative to Apollo & Instantly",
       "description": "Why pay thousands for black-box outreach tools? YOUR_PRODUCT_NAME gives you the full lead enrichment pipeline as open-source code. Self-host it, bring your own API keys, own your data."
     },
     "credentials": null,
@@ -11498,7 +10824,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Outbound Lead Gen Without the SaaS Tax",
-      "description": "Open-source AI SDR agent that replaces your expensive sales stack. From Google Maps scraping to verified decision-maker emails \u2014 all in a single, self-hosted platform with credit-based pricing."
+      "description": "Open-source AI SDR agent that replaces your expensive sales stack. From Google Maps scraping to verified decision-maker emails — all in a single, self-hosted platform with credit-based pricing."
     },
     "credentials": {
       "email": "YOUR_EMAIL",
@@ -11553,7 +10879,7 @@
     "auth_type": "email_password",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 The $8K/Year SDR Replacement",
+      "title": "YOUR_PRODUCT_NAME — The $8K/Year SDR Replacement",
       "description": "Total annual cost: $8K vs $98K for a human SDR. YOUR_PRODUCT_NAME automates lead scraping, contact enrichment, decision-maker identification, and email verification. MIT licensed, mobile-first."
     },
     "credentials": {
@@ -11641,7 +10967,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: AI Lead Enrichment in 5 Steps",
-      "description": "Map Scrape \u2192 Contact Mining \u2192 DM Identification \u2192 Email Verification \u2192 Data Sanitization. A complete AI-powered pipeline that turns Google Maps businesses into outreach-ready leads."
+      "description": "Map Scrape → Contact Mining → DM Identification → Email Verification → Data Sanitization. A complete AI-powered pipeline that turns Google Maps businesses into outreach-ready leads."
     },
     "credentials": null,
     "form_path": "https://somuch.com/",
@@ -11682,7 +11008,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Own Your Pipeline, Not Rent It",
+      "title": "YOUR_PRODUCT_NAME — Own Your Pipeline, Not Rent It",
       "description": "Self-hosted lead generation powered by AI. Scrape hyper-local leads from Google Maps, enrich with verified contacts, and manage from your phone. No third-party data risk, MIT licensed."
     },
     "credentials": null,
@@ -11740,7 +11066,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI SDR for Solo Founders & Agencies",
+      "title": "YOUR_PRODUCT_NAME — AI SDR for Solo Founders & Agencies",
       "description": "Whether you're a solo GTM engineer or running an agency, YOUR_PRODUCT_NAME scales with you. Free tier with 100 credits, or self-host for unlimited leads. Google Maps to verified emails in minutes."
     },
     "credentials": null,
@@ -11797,7 +11123,7 @@
         }
       ],
       "submitted": true,
-      "submitButtonText": "Subscribe For Free \u2192",
+      "submitButtonText": "Subscribe For Free →",
       "pageUrl": "https://www.failory.com/"
     }
   },
@@ -11808,8 +11134,8 @@
     "auth_type": "none",
     "captcha_type": "recaptcha_v3",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source AI SDR Agent",
-      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization \u2014 all from your phone."
+      "title": "YOUR_PRODUCT_NAME — Open-Source AI SDR Agent",
+      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization — all from your phone."
     },
     "credentials": null,
     "form_path": "https://www.feedough.com/submit-your-startup/",
@@ -11851,46 +11177,12 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: AI-Powered Sales Automation",
-      "description": "Replace your $100k/yr SDR with an open-source AI agent. YOUR_PRODUCT_NAME automates lead scraping from Google Maps, enriches contacts with emails and decision-makers, then runs personalized multi-channel outreach \u2014 all self-hosted."
+      "description": "Replace your $100k/yr SDR with an open-source AI agent. YOUR_PRODUCT_NAME automates lead scraping from Google Maps, enriches contacts with emails and decision-makers, then runs personalized multi-channel outreach — all self-hosted."
     },
     "credentials": null,
     "form_path": "https://onlinegeniuses.com/",
     "form_fields": [],
     "status": "no_form_found",
-    "notes": ""
-  },
-  {
-    "directory_index": 242,
-    "directory_name": "Side Bar",
-    "submission_url": "https://Sidebar.io",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2013 The Local-First AI SDR Engine",
-      "description": "Stop paying the SaaS tax on sales tools. YOUR_PRODUCT_NAME is an open-source, self-hosted AI SDR that finds leads on Google Maps, enriches them with verified emails, and runs outbound campaigns autonomously. Mobile-first, MIT licensed."
-    },
-    "credentials": null,
-    "form_path": "https://sidebar.io/",
-    "form_fields": [
-      {
-        "action": "",
-        "method": "",
-        "id": "_no_form_wrapper",
-        "class": "",
-        "fields": [
-          {
-            "tag": "input",
-            "type": "email",
-            "name": "",
-            "id": "",
-            "placeholder": "Your Email",
-            "label": "Your Email",
-            "required": false
-          }
-        ]
-      }
-    ],
-    "status": "submit_timeout",
     "notes": ""
   },
   {
@@ -11942,7 +11234,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Build Your Outbound Pipeline with AI",
+      "title": "YOUR_PRODUCT_NAME — Build Your Outbound Pipeline with AI",
       "description": "Open-source AI SDR that turns Google Maps data into a revenue pipeline. Automated lead enrichment, decision-maker discovery, and personalized email sequences. Self-hosted on your infrastructure with full data control."
     },
     "credentials": null,
@@ -12031,7 +11323,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2013 AI Sales Rep, Open Source",
+      "title": "YOUR_PRODUCT_NAME – AI Sales Rep, Open Source",
       "description": "An AI-powered SDR agent that automates your entire outbound pipeline. From Google Maps lead scraping to multi-channel outreach, YOUR_PRODUCT_NAME is self-hosted, MIT licensed, and replaces expensive sales tools."
     },
     "credentials": null,
@@ -12048,7 +11340,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Automate Outbound Sales with AI",
-      "description": "Open-source AI SDR agent for startups and sales teams. Scrape leads from Google Maps, enrich with verified emails and decision-maker data, send personalized outreach \u2014 all from a mobile-first interface."
+      "description": "Open-source AI SDR agent for startups and sales teams. Scrape leads from Google Maps, enrich with verified emails and decision-maker data, send personalized outreach — all from a mobile-first interface."
     },
     "credentials": null,
     "form_path": "https://submitaitools.org/verify/submit/",
@@ -12063,8 +11355,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Self-Hosted AI for Sales Prospecting",
-      "description": "Replace your 12-tool sales stack with one open-source AI agent. YOUR_PRODUCT_NAME automates lead generation from Google Maps, contact enrichment, and outbound email \u2014 self-hosted with n8n orchestration."
+      "title": "YOUR_PRODUCT_NAME — Self-Hosted AI for Sales Prospecting",
+      "description": "Replace your 12-tool sales stack with one open-source AI agent. YOUR_PRODUCT_NAME automates lead generation from Google Maps, contact enrichment, and outbound email — self-hosted with n8n orchestration."
     },
     "credentials": null,
     "form_path": "https://aicorner.net/",
@@ -12121,7 +11413,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Free AI SDR for Startups",
+      "title": "YOUR_PRODUCT_NAME — Free AI SDR for Startups",
       "description": "Open-source AI Sales Development Rep. Scrapes Google Maps for local business leads, enriches with emails and phone numbers, identifies decision-makers, and automates personalized outreach sequences."
     },
     "credentials": null,
@@ -12232,7 +11524,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI Agent for B2B Sales",
+      "title": "YOUR_PRODUCT_NAME — AI Agent for B2B Sales",
       "description": "Open-source AI SDR that turns Google Maps into your lead pipeline. Automated enrichment, decision-maker identification, email verification, and multi-channel outreach. Self-hosted for full data control."
     },
     "credentials": null,
@@ -12249,8 +11541,8 @@
             "type": "text",
             "name": "",
             "id": "search-text",
-            "placeholder": "\u7ad9\u5185\u641c\u7d22",
-            "label": "\u7ad9\u5185\u641c\u7d22",
+            "placeholder": "站内搜索",
+            "label": "站内搜索",
             "required": false
           }
         ]
@@ -12347,8 +11639,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Replace Your Sales Stack with AI",
-      "description": "An open-source AI SDR that automates the entire outbound pipeline \u2014 from Google Maps lead scraping to email enrichment to personalized outreach. Self-hosted, free, mobile-first."
+      "title": "YOUR_PRODUCT_NAME — Replace Your Sales Stack with AI",
+      "description": "An open-source AI SDR that automates the entire outbound pipeline — from Google Maps lead scraping to email enrichment to personalized outreach. Self-hosted, free, mobile-first."
     },
     "credentials": null,
     "form_path": "https://aitoolspin.com/",
@@ -12441,7 +11733,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Alternative to Outreach.io",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Alternative to Outreach.io",
       "description": "Free, self-hosted AI sales agent. YOUR_PRODUCT_NAME automates lead generation, contact enrichment, and multi-channel outreach using Google Maps data and AI-powered personalization."
     },
     "credentials": null,
@@ -12489,7 +11781,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Precision Outbound Sales Agent",
-      "description": "Open-source AI SDR for signal-driven outbound. Extracts high-intent leads from Google Maps, enriches with verified emails, and automates personalized campaigns \u2014 all on your infrastructure."
+      "description": "Open-source AI SDR for signal-driven outbound. Extracts high-intent leads from Google Maps, enriches with verified emails, and automates personalized campaigns — all on your infrastructure."
     },
     "credentials": null,
     "form_path": "https://aitoolsmarketer.com/",
@@ -12548,7 +11840,7 @@
     "auth_type": "email_password",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Mobile-First AI Sales Agent",
+      "title": "YOUR_PRODUCT_NAME — Mobile-First AI Sales Agent",
       "description": "Swipe to approve leads, trigger AI sequences from your phone. YOUR_PRODUCT_NAME is an open-source AI SDR that automates Google Maps lead extraction, enrichment, and outbound outreach."
     },
     "credentials": {
@@ -12685,8 +11977,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source AI SDR Agent",
-      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization \u2014 all from your phone."
+      "title": "YOUR_PRODUCT_NAME — Open-Source AI SDR Agent",
+      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization — all from your phone."
     },
     "credentials": null,
     "form_path": "https://aiparabellum.com/",
@@ -12702,7 +11994,7 @@
             "type": "search",
             "name": "s",
             "id": "",
-            "placeholder": "Search \u2026",
+            "placeholder": "Search …",
             "label": "Search for:",
             "required": false
           }
@@ -12720,7 +12012,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: AI-Powered Sales Automation",
-      "description": "Replace your $100k/yr SDR with an open-source AI agent. YOUR_PRODUCT_NAME automates lead scraping from Google Maps, enriches contacts with emails and decision-makers, then runs personalized multi-channel outreach \u2014 all self-hosted."
+      "description": "Replace your $100k/yr SDR with an open-source AI agent. YOUR_PRODUCT_NAME automates lead scraping from Google Maps, enriches contacts with emails and decision-makers, then runs personalized multi-channel outreach — all self-hosted."
     },
     "credentials": null,
     "form_path": "https://aiagentsbase.com/",
@@ -12735,7 +12027,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2013 The Local-First AI SDR Engine",
+      "title": "YOUR_PRODUCT_NAME – The Local-First AI SDR Engine",
       "description": "Stop paying the SaaS tax on sales tools. YOUR_PRODUCT_NAME is an open-source, self-hosted AI SDR that finds leads on Google Maps, enriches them with verified emails, and runs outbound campaigns autonomously. Mobile-first, MIT licensed."
     },
     "credentials": null,
@@ -12867,7 +12159,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Build Your Outbound Pipeline with AI",
+      "title": "YOUR_PRODUCT_NAME — Build Your Outbound Pipeline with AI",
       "description": "Open-source AI SDR that turns Google Maps data into a revenue pipeline. Automated lead enrichment, decision-maker discovery, and personalized email sequences. Self-hosted on your infrastructure with full data control."
     },
     "credentials": null,
@@ -13016,7 +12308,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2013 AI Sales Rep, Open Source",
+      "title": "YOUR_PRODUCT_NAME – AI Sales Rep, Open Source",
       "description": "An AI-powered SDR agent that automates your entire outbound pipeline. From Google Maps lead scraping to multi-channel outreach, YOUR_PRODUCT_NAME is self-hosted, MIT licensed, and replaces expensive sales tools."
     },
     "credentials": null,
@@ -13051,7 +12343,7 @@
     "captcha_type": "cloudflare_turnstile",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Automate Outbound Sales with AI",
-      "description": "Open-source AI SDR agent for startups and sales teams. Scrape leads from Google Maps, enrich with verified emails and decision-maker data, send personalized outreach \u2014 all from a mobile-first interface."
+      "description": "Open-source AI SDR agent for startups and sales teams. Scrape leads from Google Maps, enrich with verified emails and decision-maker data, send personalized outreach — all from a mobile-first interface."
     },
     "credentials": null,
     "form_path": "https://www.cloudbooklet.com/",
@@ -13101,8 +12393,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Self-Hosted AI for Sales Prospecting",
-      "description": "Replace your 12-tool sales stack with one open-source AI agent. YOUR_PRODUCT_NAME automates lead generation from Google Maps, contact enrichment, and outbound email \u2014 self-hosted with n8n orchestration."
+      "title": "YOUR_PRODUCT_NAME — Self-Hosted AI for Sales Prospecting",
+      "description": "Replace your 12-tool sales stack with one open-source AI agent. YOUR_PRODUCT_NAME automates lead generation from Google Maps, contact enrichment, and outbound email — self-hosted with n8n orchestration."
     },
     "credentials": null,
     "form_path": "https://desifounder.com/spotlight/2026/8",
@@ -13199,7 +12491,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Free AI SDR for Startups",
+      "title": "YOUR_PRODUCT_NAME — Free AI SDR for Startups",
       "description": "Open-source AI Sales Development Rep. Scrapes Google Maps for local business leads, enriches with emails and phone numbers, identifies decision-makers, and automates personalized outreach sequences."
     },
     "credentials": null,
@@ -13297,7 +12589,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI Agent for B2B Sales",
+      "title": "YOUR_PRODUCT_NAME — AI Agent for B2B Sales",
       "description": "Open-source AI SDR that turns Google Maps into your lead pipeline. Automated enrichment, decision-maker identification, email verification, and multi-channel outreach. Self-hosted for full data control."
     },
     "credentials": null,
@@ -13421,8 +12713,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Replace Your Sales Stack with AI",
-      "description": "An open-source AI SDR that automates the entire outbound pipeline \u2014 from Google Maps lead scraping to email enrichment to personalized outreach. Self-hosted, free, mobile-first."
+      "title": "YOUR_PRODUCT_NAME — Replace Your Sales Stack with AI",
+      "description": "An open-source AI SDR that automates the entire outbound pipeline — from Google Maps lead scraping to email enrichment to personalized outreach. Self-hosted, free, mobile-first."
     },
     "credentials": null,
     "form_path": null,
@@ -13453,7 +12745,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Alternative to Outreach.io",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Alternative to Outreach.io",
       "description": "Free, self-hosted AI sales agent. YOUR_PRODUCT_NAME automates lead generation, contact enrichment, and multi-channel outreach using Google Maps data and AI-powered personalization."
     },
     "credentials": null,
@@ -13513,7 +12805,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Precision Outbound Sales Agent",
-      "description": "Open-source AI SDR for signal-driven outbound. Extracts high-intent leads from Google Maps, enriches with verified emails, and automates personalized campaigns \u2014 all on your infrastructure."
+      "description": "Open-source AI SDR for signal-driven outbound. Extracts high-intent leads from Google Maps, enriches with verified emails, and automates personalized campaigns — all on your infrastructure."
     },
     "credentials": null,
     "form_path": "https://topai.tools/",
@@ -13563,7 +12855,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Mobile-First AI Sales Agent",
+      "title": "YOUR_PRODUCT_NAME — Mobile-First AI Sales Agent",
       "description": "Swipe to approve leads, trigger AI sequences from your phone. YOUR_PRODUCT_NAME is an open-source AI SDR that automates Google Maps lead extraction, enrichment, and outbound outreach."
     },
     "credentials": null,
@@ -13639,8 +12931,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source AI SDR Agent",
-      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization \u2014 all from your phone."
+      "title": "YOUR_PRODUCT_NAME — Open-Source AI SDR Agent",
+      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization — all from your phone."
     },
     "credentials": null,
     "form_path": "https://www.toolkitly.com/",
@@ -13709,7 +13001,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: AI-Powered Sales Automation",
-      "description": "Replace your $100k/yr SDR with an open-source AI agent. YOUR_PRODUCT_NAME automates lead scraping from Google Maps, enriches contacts with emails and decision-makers, then runs personalized multi-channel outreach \u2014 all self-hosted."
+      "description": "Replace your $100k/yr SDR with an open-source AI agent. YOUR_PRODUCT_NAME automates lead scraping from Google Maps, enriches contacts with emails and decision-makers, then runs personalized multi-channel outreach — all self-hosted."
     },
     "credentials": null,
     "form_path": "https://www.turbify.com/",
@@ -13750,7 +13042,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2013 The Local-First AI SDR Engine",
+      "title": "YOUR_PRODUCT_NAME – The Local-First AI SDR Engine",
       "description": "Stop paying the SaaS tax on sales tools. YOUR_PRODUCT_NAME is an open-source, self-hosted AI SDR that finds leads on Google Maps, enriches them with verified emails, and runs outbound campaigns autonomously. Mobile-first, MIT licensed."
     },
     "credentials": null,
@@ -13826,7 +13118,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Build Your Outbound Pipeline with AI",
+      "title": "YOUR_PRODUCT_NAME — Build Your Outbound Pipeline with AI",
       "description": "Open-source AI SDR that turns Google Maps data into a revenue pipeline. Automated lead enrichment, decision-maker discovery, and personalized email sequences. Self-hosted on your infrastructure with full data control."
     },
     "credentials": null,
@@ -13944,7 +13236,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2013 AI Sales Rep, Open Source",
+      "title": "YOUR_PRODUCT_NAME – AI Sales Rep, Open Source",
       "description": "An AI-powered SDR agent that automates your entire outbound pipeline. From Google Maps lead scraping to multi-channel outreach, YOUR_PRODUCT_NAME is self-hosted, MIT licensed, and replaces expensive sales tools."
     },
     "credentials": null,
@@ -13987,7 +13279,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Automate Outbound Sales with AI",
-      "description": "Open-source AI SDR agent for startups and sales teams. Scrape leads from Google Maps, enrich with verified emails and decision-maker data, send personalized outreach \u2014 all from a mobile-first interface."
+      "description": "Open-source AI SDR agent for startups and sales teams. Scrape leads from Google Maps, enrich with verified emails and decision-maker data, send personalized outreach — all from a mobile-first interface."
     },
     "credentials": null,
     "form_path": "https://www.jasminedirectory.com/",
@@ -14028,8 +13320,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Self-Hosted AI for Sales Prospecting",
-      "description": "Replace your 12-tool sales stack with one open-source AI agent. YOUR_PRODUCT_NAME automates lead generation from Google Maps, contact enrichment, and outbound email \u2014 self-hosted with n8n orchestration."
+      "title": "YOUR_PRODUCT_NAME — Self-Hosted AI for Sales Prospecting",
+      "description": "Replace your 12-tool sales stack with one open-source AI agent. YOUR_PRODUCT_NAME automates lead generation from Google Maps, contact enrichment, and outbound email — self-hosted with n8n orchestration."
     },
     "credentials": null,
     "form_path": "https://www.tupalo.com/",
@@ -14086,7 +13378,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Free AI SDR for Startups",
+      "title": "YOUR_PRODUCT_NAME — Free AI SDR for Startups",
       "description": "Open-source AI Sales Development Rep. Scrapes Google Maps for local business leads, enriches with emails and phone numbers, identifies decision-makers, and automates personalized outreach sequences."
     },
     "credentials": null,
@@ -14144,7 +13436,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI Agent for B2B Sales",
+      "title": "YOUR_PRODUCT_NAME — AI Agent for B2B Sales",
       "description": "Open-source AI SDR that turns Google Maps into your lead pipeline. Automated enrichment, decision-maker identification, email verification, and multi-channel outreach. Self-hosted for full data control."
     },
     "credentials": null,
@@ -14219,8 +13511,8 @@
     "auth_type": "email_password",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Replace Your Sales Stack with AI",
-      "description": "An open-source AI SDR that automates the entire outbound pipeline \u2014 from Google Maps lead scraping to email enrichment to personalized outreach. Self-hosted, free, mobile-first."
+      "title": "YOUR_PRODUCT_NAME — Replace Your Sales Stack with AI",
+      "description": "An open-source AI SDR that automates the entire outbound pipeline — from Google Maps lead scraping to email enrichment to personalized outreach. Self-hosted, free, mobile-first."
     },
     "credentials": {
       "email": "YOUR_EMAIL",
@@ -14387,7 +13679,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Alternative to Outreach.io",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Alternative to Outreach.io",
       "description": "Free, self-hosted AI sales agent. YOUR_PRODUCT_NAME automates lead generation, contact enrichment, and multi-channel outreach using Google Maps data and AI-powered personalization."
     },
     "credentials": null,
@@ -14439,7 +13731,7 @@
     "captcha_type": "captcha_unknown",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Precision Outbound Sales Agent",
-      "description": "Open-source AI SDR for signal-driven outbound. Extracts high-intent leads from Google Maps, enriches with verified emails, and automates personalized campaigns \u2014 all on your infrastructure."
+      "description": "Open-source AI SDR for signal-driven outbound. Extracts high-intent leads from Google Maps, enriches with verified emails, and automates personalized campaigns — all on your infrastructure."
     },
     "credentials": null,
     "form_path": "https://www.hugedomains.com/domain_profile.cfm?d=altaindia.com",
@@ -14480,7 +13772,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Mobile-First AI Sales Agent",
+      "title": "YOUR_PRODUCT_NAME — Mobile-First AI Sales Agent",
       "description": "Swipe to approve leads, trigger AI sequences from your phone. YOUR_PRODUCT_NAME is an open-source AI SDR that automates Google Maps lead extraction, enrichment, and outbound outreach."
     },
     "credentials": null,
@@ -14706,7 +13998,7 @@
             "name": "s",
             "id": "wp-block-search__input-2",
             "placeholder": "",
-            "label": "\u0e04\u0e49\u0e19\u0e2b\u0e32",
+            "label": "ค้นหา",
             "required": true
           }
         ]
@@ -14730,8 +14022,8 @@
     "auth_type": "email_password",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source AI SDR Agent",
-      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization \u2014 all from your phone."
+      "title": "YOUR_PRODUCT_NAME — Open-Source AI SDR Agent",
+      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization — all from your phone."
     },
     "credentials": {
       "email": "YOUR_EMAIL",
@@ -14782,7 +14074,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: AI-Powered Sales Automation",
-      "description": "Replace your $100k/yr SDR with an open-source AI agent. YOUR_PRODUCT_NAME automates lead scraping from Google Maps, enriches contacts with emails and decision-makers, then runs personalized multi-channel outreach \u2014 all self-hosted."
+      "description": "Replace your $100k/yr SDR with an open-source AI agent. YOUR_PRODUCT_NAME automates lead scraping from Google Maps, enriches contacts with emails and decision-makers, then runs personalized multi-channel outreach — all self-hosted."
     },
     "credentials": null,
     "form_path": "https://viesearch.com/",
@@ -14823,7 +14115,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2013 The Local-First AI SDR Engine",
+      "title": "YOUR_PRODUCT_NAME – The Local-First AI SDR Engine",
       "description": "Stop paying the SaaS tax on sales tools. YOUR_PRODUCT_NAME is an open-source, self-hosted AI SDR that finds leads on Google Maps, enriches them with verified emails, and runs outbound campaigns autonomously. Mobile-first, MIT licensed."
     },
     "credentials": null,
@@ -14895,7 +14187,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Build Your Outbound Pipeline with AI",
+      "title": "YOUR_PRODUCT_NAME — Build Your Outbound Pipeline with AI",
       "description": "Open-source AI SDR that turns Google Maps data into a revenue pipeline. Automated lead enrichment, decision-maker discovery, and personalized email sequences. Self-hosted on your infrastructure with full data control."
     },
     "credentials": null,
@@ -14979,7 +14271,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2013 AI Sales Rep, Open Source",
+      "title": "YOUR_PRODUCT_NAME – AI Sales Rep, Open Source",
       "description": "An AI-powered SDR agent that automates your entire outbound pipeline. From Google Maps lead scraping to multi-channel outreach, YOUR_PRODUCT_NAME is self-hosted, MIT licensed, and replaces expensive sales tools."
     },
     "credentials": null,
@@ -14996,7 +14288,7 @@
     "captcha_type": "recaptcha_v3",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Automate Outbound Sales with AI",
-      "description": "Open-source AI SDR agent for startups and sales teams. Scrape leads from Google Maps, enrich with verified emails and decision-maker data, send personalized outreach \u2014 all from a mobile-first interface."
+      "description": "Open-source AI SDR agent for startups and sales teams. Scrape leads from Google Maps, enrich with verified emails and decision-maker data, send personalized outreach — all from a mobile-first interface."
     },
     "credentials": null,
     "form_path": null,
@@ -15011,8 +14303,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Self-Hosted AI for Sales Prospecting",
-      "description": "Replace your 12-tool sales stack with one open-source AI agent. YOUR_PRODUCT_NAME automates lead generation from Google Maps, contact enrichment, and outbound email \u2014 self-hosted with n8n orchestration."
+      "title": "YOUR_PRODUCT_NAME — Self-Hosted AI for Sales Prospecting",
+      "description": "Replace your 12-tool sales stack with one open-source AI agent. YOUR_PRODUCT_NAME automates lead generation from Google Maps, contact enrichment, and outbound email — self-hosted with n8n orchestration."
     },
     "credentials": null,
     "form_path": "https://www.fyple.com/",
@@ -15104,7 +14396,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Free AI SDR for Startups",
+      "title": "YOUR_PRODUCT_NAME — Free AI SDR for Startups",
       "description": "Open-source AI Sales Development Rep. Scrapes Google Maps for local business leads, enriches with emails and phone numbers, identifies decision-makers, and automates personalized outreach sequences."
     },
     "credentials": null,
@@ -15171,7 +14463,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI Agent for B2B Sales",
+      "title": "YOUR_PRODUCT_NAME — AI Agent for B2B Sales",
       "description": "Open-source AI SDR that turns Google Maps into your lead pipeline. Automated enrichment, decision-maker identification, email verification, and multi-channel outreach. Self-hosted for full data control."
     },
     "credentials": null,
@@ -15229,8 +14521,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Replace Your Sales Stack with AI",
-      "description": "An open-source AI SDR that automates the entire outbound pipeline \u2014 from Google Maps lead scraping to email enrichment to personalized outreach. Self-hosted, free, mobile-first."
+      "title": "YOUR_PRODUCT_NAME — Replace Your Sales Stack with AI",
+      "description": "An open-source AI SDR that automates the entire outbound pipeline — from Google Maps lead scraping to email enrichment to personalized outreach. Self-hosted, free, mobile-first."
     },
     "credentials": null,
     "form_path": "https://www.websquash.com/",
@@ -15322,7 +14614,7 @@
     "auth_type": "none",
     "captcha_type": "recaptcha_v2",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Alternative to Outreach.io",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Alternative to Outreach.io",
       "description": "Free, self-hosted AI sales agent. YOUR_PRODUCT_NAME automates lead generation, contact enrichment, and multi-channel outreach using Google Maps data and AI-powered personalization."
     },
     "credentials": null,
@@ -15339,7 +14631,7 @@
     "captcha_type": "recaptcha_v2",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Precision Outbound Sales Agent",
-      "description": "Open-source AI SDR for signal-driven outbound. Extracts high-intent leads from Google Maps, enriches with verified emails, and automates personalized campaigns \u2014 all on your infrastructure."
+      "description": "Open-source AI SDR for signal-driven outbound. Extracts high-intent leads from Google Maps, enriches with verified emails, and automates personalized campaigns — all on your infrastructure."
     },
     "credentials": {
       "email": "YOUR_EMAIL",
@@ -15363,7 +14655,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Mobile-First AI Sales Agent",
+      "title": "YOUR_PRODUCT_NAME — Mobile-First AI Sales Agent",
       "description": "Swipe to approve leads, trigger AI sequences from your phone. YOUR_PRODUCT_NAME is an open-source AI SDR that automates Google Maps lead extraction, enrichment, and outbound outreach."
     },
     "credentials": null,
@@ -15395,8 +14687,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source AI SDR Agent",
-      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization \u2014 all from your phone."
+      "title": "YOUR_PRODUCT_NAME — Open-Source AI SDR Agent",
+      "description": "YOUR_PRODUCT_NAME is an open-source AI Sales Development Rep that turns Google Maps into a high-intent lead pipeline. Self-hosted, MIT licensed, 71% cheaper than a human SDR. Enrich leads with verified emails, decision-maker identification, and data sanitization — all from your phone."
     },
     "credentials": null,
     "form_path": null,
@@ -15412,7 +14704,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: AI-Powered Sales Automation",
-      "description": "Replace your $100k/yr SDR with an open-source AI agent. YOUR_PRODUCT_NAME automates lead scraping from Google Maps, enriches contacts with emails and decision-makers, then runs personalized multi-channel outreach \u2014 all self-hosted."
+      "description": "Replace your $100k/yr SDR with an open-source AI agent. YOUR_PRODUCT_NAME automates lead scraping from Google Maps, enriches contacts with emails and decision-makers, then runs personalized multi-channel outreach — all self-hosted."
     },
     "credentials": null,
     "form_path": null,
@@ -15427,7 +14719,7 @@
     "auth_type": "email_password",
     "captcha_type": "recaptcha_v3",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2013 The Local-First AI SDR Engine",
+      "title": "YOUR_PRODUCT_NAME – The Local-First AI SDR Engine",
       "description": "Stop paying the SaaS tax on sales tools. YOUR_PRODUCT_NAME is an open-source, self-hosted AI SDR that finds leads on Google Maps, enriches them with verified emails, and runs outbound campaigns autonomously. Mobile-first, MIT licensed."
     },
     "credentials": {
@@ -15468,7 +14760,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Build Your Outbound Pipeline with AI",
+      "title": "YOUR_PRODUCT_NAME — Build Your Outbound Pipeline with AI",
       "description": "Open-source AI SDR that turns Google Maps data into a revenue pipeline. Automated lead enrichment, decision-maker discovery, and personalized email sequences. Self-hosted on your infrastructure with full data control."
     },
     "credentials": null,
@@ -15509,7 +14801,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2013 AI Sales Rep, Open Source",
+      "title": "YOUR_PRODUCT_NAME – AI Sales Rep, Open Source",
       "description": "An AI-powered SDR agent that automates your entire outbound pipeline. From Google Maps lead scraping to multi-channel outreach, YOUR_PRODUCT_NAME is self-hosted, MIT licensed, and replaces expensive sales tools."
     },
     "credentials": null,
@@ -15552,7 +14844,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Automate Outbound Sales with AI",
-      "description": "Open-source AI SDR agent for startups and sales teams. Scrape leads from Google Maps, enrich with verified emails and decision-maker data, send personalized outreach \u2014 all from a mobile-first interface."
+      "description": "Open-source AI SDR agent for startups and sales teams. Scrape leads from Google Maps, enrich with verified emails and decision-maker data, send personalized outreach — all from a mobile-first interface."
     },
     "credentials": null,
     "form_path": null,
@@ -15567,8 +14859,8 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Self-Hosted AI for Sales Prospecting",
-      "description": "Replace your 12-tool sales stack with one open-source AI agent. YOUR_PRODUCT_NAME automates lead generation from Google Maps, contact enrichment, and outbound email \u2014 self-hosted with n8n orchestration."
+      "title": "YOUR_PRODUCT_NAME — Self-Hosted AI for Sales Prospecting",
+      "description": "Replace your 12-tool sales stack with one open-source AI agent. YOUR_PRODUCT_NAME automates lead generation from Google Maps, contact enrichment, and outbound email — self-hosted with n8n orchestration."
     },
     "credentials": null,
     "form_path": null,
@@ -15599,7 +14891,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Free AI SDR for Startups",
+      "title": "YOUR_PRODUCT_NAME — Free AI SDR for Startups",
       "description": "Open-source AI Sales Development Rep. Scrapes Google Maps for local business leads, enriches with emails and phone numbers, identifies decision-makers, and automates personalized outreach sequences."
     },
     "credentials": null,
@@ -15693,7 +14985,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 AI Agent for B2B Sales",
+      "title": "YOUR_PRODUCT_NAME — AI Agent for B2B Sales",
       "description": "Open-source AI SDR that turns Google Maps into your lead pipeline. Automated enrichment, decision-maker identification, email verification, and multi-channel outreach. Self-hosted for full data control."
     },
     "credentials": null,
@@ -15827,8 +15119,8 @@
     "auth_type": "none",
     "captcha_type": "recaptcha_v2",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Replace Your Sales Stack with AI",
-      "description": "An open-source AI SDR that automates the entire outbound pipeline \u2014 from Google Maps lead scraping to email enrichment to personalized outreach. Self-hosted, free, mobile-first."
+      "title": "YOUR_PRODUCT_NAME — Replace Your Sales Stack with AI",
+      "description": "An open-source AI SDR that automates the entire outbound pipeline — from Google Maps lead scraping to email enrichment to personalized outreach. Self-hosted, free, mobile-first."
     },
     "credentials": null,
     "form_path": "https://www.poordirectory.com/",
@@ -15920,7 +15212,7 @@
     "auth_type": "none",
     "captcha_type": "recaptcha_v2",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Open-Source Alternative to Outreach.io",
+      "title": "YOUR_PRODUCT_NAME — Open-Source Alternative to Outreach.io",
       "description": "Free, self-hosted AI sales agent. YOUR_PRODUCT_NAME automates lead generation, contact enrichment, and multi-channel outreach using Google Maps data and AI-powered personalization."
     },
     "credentials": null,
@@ -15972,7 +15264,7 @@
     "captcha_type": "none",
     "copy": {
       "title": "YOUR_PRODUCT_NAME: Precision Outbound Sales Agent",
-      "description": "Open-source AI SDR for signal-driven outbound. Extracts high-intent leads from Google Maps, enriches with verified emails, and automates personalized campaigns \u2014 all on your infrastructure."
+      "description": "Open-source AI SDR for signal-driven outbound. Extracts high-intent leads from Google Maps, enriches with verified emails, and automates personalized campaigns — all on your infrastructure."
     },
     "credentials": {
       "email": "YOUR_EMAIL",
@@ -16091,7 +15383,7 @@
     "auth_type": "none",
     "captcha_type": "none",
     "copy": {
-      "title": "YOUR_PRODUCT_NAME \u2014 Mobile-First AI Sales Agent",
+      "title": "YOUR_PRODUCT_NAME — Mobile-First AI Sales Agent",
       "description": "Swipe to approve leads, trigger AI sequences from your phone. YOUR_PRODUCT_NAME is an open-source AI SDR that automates Google Maps lead extraction, enrichment, and outbound outreach."
     },
     "credentials": null,

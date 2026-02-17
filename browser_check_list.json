@@ -60,12 +60,6 @@
     "error": ""
   },
   {
-    "index": 27,
-    "name": "Apple Insider",
-    "url": "https://appleinsider.com",
-    "error": "HTTP 403"
-  },
-  {
     "index": 29,
     "name": "Appolicious",
     "url": "https://www.appolicious.com/contact-us",
@@ -270,12 +264,6 @@
     "error": ""
   },
   {
-    "index": 159,
-    "name": "Life Hack",
-    "url": "https://www.lifehack.org",
-    "error": ""
-  },
-  {
     "index": 161,
     "name": "Listly",
     "url": "https://list.ly",
@@ -308,7 +296,7 @@
   {
     "index": 172,
     "name": "Merchant Circle",
-    "url": "https://www.merchantcircle.com/signup/#\u00e2\u20ac\u00b9",
+    "url": "https://www.merchantcircle.com/signup/#â€¹",
     "error": "HTTP 403"
   },
   {
@@ -418,12 +406,6 @@
     "name": "Serchen",
     "url": "https://www.serchen.com/get-listed",
     "error": "HTTP 403"
-  },
-  {
-    "index": 242,
-    "name": "Side Bar",
-    "url": "https://Sidebar.io",
-    "error": ""
   },
   {
     "index": 243,
@@ -540,12 +522,6 @@
     "error": ""
   },
   {
-    "index": 323,
-    "name": "TechBoard",
-    "url": "https://techboard.com.au",
-    "error": "HTTP 403"
-  },
-  {
     "index": 328,
     "name": "The Apple Google",
     "url": "http://theapplegoogle.com",
@@ -610,12 +586,6 @@
     "name": "Venture Beat",
     "url": "https://venturebeat.com/quest-posts",
     "error": "HTTP 429"
-  },
-  {
-    "index": 369,
-    "name": "Web Tools Weekly",
-    "url": "http://webtoolsweekly.com/submit",
-    "error": ""
   },
   {
     "index": 371,
@@ -808,12 +778,6 @@
     "name": "Ankore",
     "url": "https://ankore.io/submit",
     "error": "Remote end closed connection without response"
-  },
-  {
-    "index": 445,
-    "name": "Ben\u2019s Bites News",
-    "url": "https://news.bensbites.com/submit",
-    "error": ""
   },
   {
     "index": 449,

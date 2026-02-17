@@ -3,22 +3,6 @@
     "categories": [
       "General"
     ],
-    "description": "Submit your product to 10 Words to reach your target audience.",
-    "is_active": true,
-    "name": "10 Words",
-    "pricing_type": "free",
-    "slug": "10-words",
-    "submission_url": "https://10words.io",
-    "url": "https://10words.io",
-    "auth_type": "none",
-    "captcha_type": "recaptcha_v2",
-    "requires_login": false,
-    "site_status": "active"
-  },
-  {
-    "categories": [
-      "General"
-    ],
     "description": "Submit your product to 9 Sites to reach your target audience.",
     "is_active": true,
     "name": "9 Sites",
@@ -480,22 +464,6 @@
     "categories": [
       "General"
     ],
-    "description": "Submit your product to Apple Insider to reach your target audience.",
-    "is_active": true,
-    "name": "Apple Insider",
-    "pricing_type": "free",
-    "slug": "apple-insider",
-    "submission_url": "https://appleinsider.com",
-    "url": "https://appleinsider.com",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "site_status": "active",
-    "requires_login": false
-  },
-  {
-    "categories": [
-      "General"
-    ],
     "description": "Submit your product to Appoid to reach your target audience.",
     "is_active": true,
     "name": "Appoid",
@@ -836,25 +804,6 @@
     "slug": "beta-bound",
     "submission_url": "https://betabound.com",
     "url": "https://betabound.com",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "requires_login": false,
-    "pricing_signals": [
-      "paid_signals"
-    ],
-    "site_status": "active"
-  },
-  {
-    "categories": [
-      "General"
-    ],
-    "description": "Submit your product to Betakit to reach your target audience.",
-    "is_active": true,
-    "name": "Betakit",
-    "pricing_type": "free",
-    "slug": "betakit",
-    "submission_url": "https://betakit.com",
-    "url": "https://betakit.com",
     "auth_type": "none",
     "captcha_type": "none",
     "requires_login": false,
@@ -1718,25 +1667,6 @@
     "categories": [
       "General"
     ],
-    "description": "Submit your product to Fark to reach your target audience.",
-    "is_active": true,
-    "name": "Fark",
-    "pricing_type": "free",
-    "slug": "fark",
-    "submission_url": "https://www.fark.com",
-    "url": "https://www.fark.com",
-    "auth_type": "email_password",
-    "captcha_type": "none",
-    "requires_login": true,
-    "pricing_signals": [
-      "paid_signals"
-    ],
-    "site_status": "active"
-  },
-  {
-    "categories": [
-      "General"
-    ],
     "description": "Submit your product to Fast Company to reach your target audience.",
     "is_active": true,
     "name": "Fast Company",
@@ -1950,25 +1880,6 @@
     "captcha_type": "captcha_unknown",
     "site_status": "active",
     "requires_login": false
-  },
-  {
-    "categories": [
-      "General"
-    ],
-    "description": "Submit your product to Geek Wire to reach your target audience.",
-    "is_active": true,
-    "name": "Geek Wire",
-    "pricing_type": "free",
-    "slug": "geek-wire",
-    "submission_url": "https://Geekwire.com",
-    "url": "https://Geekwire.com",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "requires_login": false,
-    "pricing_signals": [
-      "paid_signals"
-    ],
-    "site_status": "active"
   },
   {
     "categories": [
@@ -2293,22 +2204,6 @@
     "categories": [
       "General"
     ],
-    "description": "Submit your product to Inbox World to reach your target audience.",
-    "is_active": true,
-    "name": "Inbox World",
-    "pricing_type": "free",
-    "slug": "inbox-world",
-    "submission_url": "https://inboxworld.io",
-    "url": "https://inboxworld.io",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "requires_login": false,
-    "site_status": "active"
-  },
-  {
-    "categories": [
-      "General"
-    ],
     "description": "Submit your product to Inc42 to reach your target audience.",
     "is_active": true,
     "name": "Inc42",
@@ -2557,22 +2452,6 @@
     "categories": [
       "General"
     ],
-    "description": "Submit your product to Joinly to reach your target audience.",
-    "is_active": true,
-    "name": "Joinly",
-    "pricing_type": "free",
-    "slug": "joinly",
-    "submission_url": "https://www.joinly.xyz",
-    "url": "https://www.joinly.xyz",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "requires_login": true,
-    "site_status": "active"
-  },
-  {
-    "categories": [
-      "General"
-    ],
     "description": "Submit your product to Just Dial to reach your target audience.",
     "is_active": true,
     "name": "Just Dial",
@@ -2799,42 +2678,6 @@
     "categories": [
       "General"
     ],
-    "description": "Submit your product to Letter List to reach your target audience.",
-    "is_active": true,
-    "name": "Letter List",
-    "pricing_type": "free",
-    "slug": "letter-list",
-    "submission_url": "https://letterlist.com/submit",
-    "url": "https://letterlist.com/submit",
-    "auth_type": "unknown",
-    "captcha_type": "unknown",
-    "requires_login": false,
-    "site_status": "domain_dead",
-    "analysis_error": "<urlopen error [Errno -3] Temporary failure in name resolution>"
-  },
-  {
-    "categories": [
-      "General"
-    ],
-    "description": "Submit your product to Life Hack to reach your target audience.",
-    "is_active": true,
-    "name": "Life Hack",
-    "pricing_type": "free",
-    "slug": "life-hack",
-    "submission_url": "https://www.lifehack.org",
-    "url": "https://www.lifehack.org",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "requires_login": false,
-    "pricing_signals": [
-      "freemium_signals"
-    ],
-    "site_status": "active"
-  },
-  {
-    "categories": [
-      "General"
-    ],
     "description": "Submit your product to Linkedin to reach your target audience.",
     "is_active": true,
     "name": "Linkedin",
@@ -3040,8 +2883,8 @@
     "name": "Merchant Circle",
     "pricing_type": "free",
     "slug": "merchant-circle",
-    "submission_url": "https://www.merchantcircle.com/signup/#\u00e2\u20ac\u00b9",
-    "url": "https://www.merchantcircle.com/signup/#\u00e2\u20ac\u00b9",
+    "submission_url": "https://www.merchantcircle.com/signup/#â€¹",
+    "url": "https://www.merchantcircle.com/signup/#â€¹",
     "auth_type": "facebook",
     "captcha_type": "captcha_unknown",
     "site_status": "active",
@@ -3160,27 +3003,6 @@
     "captcha_type": "unknown",
     "site_status": "domain_dead",
     "analysis_error": "<urlopen error [Errno -2] Name or service not known>"
-  },
-  {
-    "categories": [
-      "General"
-    ],
-    "description": "Submit your product to Next Big What to reach your target audience.",
-    "is_active": true,
-    "name": "Next Big What",
-    "pricing_type": "free",
-    "slug": "next-big-what",
-    "submission_url": "https://nextbigwhat.com",
-    "url": "https://nextbigwhat.com",
-    "auth_type": "google_only",
-    "captcha_type": "captcha_unknown",
-    "requires_login": true,
-    "pricing_signals": [
-      "paid_signals",
-      "free_signals",
-      "freemium_signals"
-    ],
-    "site_status": "active"
   },
   {
     "categories": [
@@ -4223,25 +4045,6 @@
     "captcha_type": "none",
     "site_status": "active",
     "requires_login": false
-  },
-  {
-    "categories": [
-      "General"
-    ],
-    "description": "Submit your product to Side Bar to reach your target audience.",
-    "is_active": true,
-    "name": "Side Bar",
-    "pricing_type": "free",
-    "slug": "side-bar",
-    "submission_url": "https://Sidebar.io",
-    "url": "https://Sidebar.io",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "requires_login": true,
-    "pricing_signals": [
-      "paid_signals"
-    ],
-    "site_status": "active"
   },
   {
     "categories": [
@@ -5396,22 +5199,6 @@
     "categories": [
       "General"
     ],
-    "description": "Submit your product to Surges to reach your target audience.",
-    "is_active": true,
-    "name": "Surges",
-    "pricing_type": "free",
-    "slug": "surges",
-    "submission_url": "https://www.surges.co",
-    "url": "https://www.surges.co",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "requires_login": false,
-    "site_status": "active"
-  },
-  {
-    "categories": [
-      "General"
-    ],
     "description": "Submit your product to swpely.com to reach your target audience.",
     "is_active": true,
     "name": "swpely.com",
@@ -5478,25 +5265,6 @@
     "captcha_type": "none",
     "site_status": "active",
     "requires_login": false
-  },
-  {
-    "categories": [
-      "General"
-    ],
-    "description": "Submit your product to Tech to reach your target audience.",
-    "is_active": true,
-    "name": "Tech",
-    "pricing_type": "free",
-    "slug": "tech",
-    "submission_url": "https://tech.eu",
-    "url": "https://tech.eu",
-    "auth_type": "none",
-    "captcha_type": "cloudflare_turnstile",
-    "requires_login": true,
-    "pricing_signals": [
-      "paid_signals"
-    ],
-    "site_status": "active"
   },
   {
     "categories": [
@@ -5636,22 +5404,6 @@
     "categories": [
       "General"
     ],
-    "description": "Submit your product to TechBoard to reach your target audience.",
-    "is_active": true,
-    "name": "TechBoard",
-    "pricing_type": "free",
-    "slug": "techboard",
-    "submission_url": "https://techboard.com.au",
-    "url": "https://techboard.com.au",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "site_status": "active",
-    "requires_login": false
-  },
-  {
-    "categories": [
-      "General"
-    ],
     "description": "Submit your product to TechCrunch to reach your target audience.",
     "is_active": true,
     "name": "TechCrunch",
@@ -5734,25 +5486,6 @@
     "auth_type": "unknown",
     "captcha_type": "none",
     "requires_login": false,
-    "site_status": "active"
-  },
-  {
-    "categories": [
-      "General"
-    ],
-    "description": "Submit your product to The Fascination to reach your target audience.",
-    "is_active": true,
-    "name": "The Fascination",
-    "pricing_type": "free",
-    "slug": "the-fascination",
-    "submission_url": "https://thefascination.com",
-    "url": "https://thefascination.com",
-    "auth_type": "none",
-    "captcha_type": "recaptcha_v3",
-    "requires_login": false,
-    "pricing_signals": [
-      "freemium_signals"
-    ],
     "site_status": "active"
   },
   {
@@ -6442,42 +6175,6 @@
       "paid_signals",
       "free_signals"
     ],
-    "site_status": "active"
-  },
-  {
-    "categories": [
-      "General"
-    ],
-    "description": "Submit your product to Web Designer News to reach your target audience.",
-    "is_active": true,
-    "name": "Web Designer News",
-    "pricing_type": "free",
-    "slug": "web-designer-news",
-    "submission_url": "https://webdesignernews.com",
-    "url": "https://webdesignernews.com",
-    "auth_type": "google_only",
-    "captcha_type": "recaptcha_v2",
-    "requires_login": true,
-    "pricing_signals": [
-      "paid_signals",
-      "free_signals"
-    ],
-    "site_status": "active"
-  },
-  {
-    "categories": [
-      "General"
-    ],
-    "description": "Submit your product to Web Tools Weekly to reach your target audience.",
-    "is_active": true,
-    "name": "Web Tools Weekly",
-    "pricing_type": "free",
-    "slug": "web-tools-weekly",
-    "submission_url": "http://webtoolsweekly.com/submit",
-    "url": "http://webtoolsweekly.com/submit",
-    "auth_type": "unknown",
-    "captcha_type": "none",
-    "requires_login": false,
     "site_status": "active"
   },
   {
@@ -7860,7 +7557,7 @@
     ],
     "description": "",
     "is_active": true,
-    "name": "Ben\u2019s Bites News",
+    "name": "Ben’s Bites News",
     "pricing_type": "free",
     "slug": "bens-bites-news",
     "submission_url": "https://news.bensbites.com/submit",
@@ -10358,26 +10055,6 @@
     ],
     "description": "",
     "is_active": true,
-    "name": "Ben's Bites",
-    "pricing_type": "free",
-    "slug": "bens-bites",
-    "submission_url": "https://news.bensbites.com/",
-    "url": "https://news.bensbites.com/",
-    "auth_type": "none",
-    "captcha_type": "none",
-    "requires_login": false,
-    "pricing_signals": [
-      "paid_signals",
-      "free_signals"
-    ],
-    "site_status": "active"
-  },
-  {
-    "categories": [
-      "General"
-    ],
-    "description": "",
-    "is_active": true,
     "name": "AngelList (Wellfound)",
     "pricing_type": "free",
     "slug": "angellist-wellfound",
@@ -11827,7 +11504,7 @@
     "categories": [
       "General"
     ],
-    "description": "AI tools, solutions, best practices, and more \u2014 all with multilingual support, aiming to foster AI adoption across the globe.",
+    "description": "AI tools, solutions, best practices, and more — all with multilingual support, aiming to foster AI adoption across the globe.",
     "is_active": true,
     "name": "Beyond AI Tools",
     "pricing_type": "free",
@@ -12311,7 +11988,7 @@
     "categories": [
       "General"
     ],
-    "description": "The World\u2019s Best & Largest Directory Of AI Tools",
+    "description": "The World’s Best & Largest Directory Of AI Tools",
     "is_active": true,
     "name": "Grabon AI Directory",
     "pricing_type": "free",
