@@ -69,11 +69,12 @@ The agent reads `AGENTS.md` for instructions. It requires the **Playwright MCP s
 Add to your Cursor MCP settings (`.cursor/mcp.json` or IDE settings):
 
 ```json
-{
   "mcpServers": {
     "playwright": {
       "command": "npx",
-      "args": ["@anthropic/mcp-playwright"]
+      "args": [
+        "@playwright/mcp@latest"
+      ]
     }
   }
 }
