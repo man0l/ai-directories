@@ -77,7 +77,6 @@ Add to your Cursor MCP settings (`.cursor/mcp.json` or IDE settings):
       ]
     }
   }
-}
 ```
 
 ### Claude Code / Claude Cowork
