@@ -9,6 +9,53 @@ description: Use when submitting a product to AI/startup directories - covers th
 
 Full lifecycle for submitting a product to 800+ AI tool directories: collect product info → analyze directories → build submission plan → discover forms → auto-submit → manual browser submissions → track progress.
 
+## Setup
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+playwright install chromium
+```
+
+### Configure credentials via environment variables
+
+Never hardcode credentials in scripts. Set these before running any pipeline step:
+
+```bash
+# Required
+export SUBMIT_PRODUCT_URL="https://yourproduct.com"
+export SUBMIT_PRODUCT_NAME="Your Product Name"
+export SUBMIT_TAGLINE="Your one-line tagline"
+export SUBMIT_EMAIL="you@throwaway.com"        # use throwaway email
+export SUBMIT_AUTHOR_NAME="Jane Doe"
+
+# Recommended
+export SUBMIT_AUTHOR_FIRST="Jane"
+export SUBMIT_AUTHOR_LAST="Doe"
+export SUBMIT_USERNAME="youruser"
+export SUBMIT_PASSWORD="throwaway-pass"        # use throwaway password
+
+# Optional
+export SUBMIT_GITHUB_URL="https://github.com/you/repo"
+export SUBMIT_TWITTER_URL="https://twitter.com/yourhandle"
+export SUBMIT_KEYWORDS="ai,saas,marketing,automation"
+export SUBMIT_LOGO="logo.png"                  # relative to script dir
+export SUBMIT_SCREENSHOT="site-image.png"      # relative to script dir
+```
+
+Tip: save these to a local `.env` file (already in `.gitignore`) and load with:
+```bash
+set -a && source .env && set +a
+```
+
+### Place assets
+
+- `logo.png` — product logo (used for file upload fields)
+- `site-image.png` — product screenshot (used for file upload fields)
+
+Both should be in the same directory as the scripts.
+
 ## Phase 0: Collect Product Info
 
 Ask **one at a time** (never dump all at once):
@@ -37,7 +84,7 @@ Then ask submission preferences:
 
 ## Phase 1: Configure
 
-1. Update `PRODUCT` dict in `submit_directories.py` — replace all `YOUR_*` placeholders
+1. Set all required environment variables (see Setup section above)
 2. Generate **30 unique copy variations** (title + description pairs):
    - Different angles: features, benefits, pricing, use case, comparison
    - Vary length: short punchy vs. detailed

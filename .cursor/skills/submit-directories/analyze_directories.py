@@ -6,7 +6,6 @@ Analyze AI directory submission URLs for authentication type, captcha, and prici
 import json
 import re
 import time
-import ssl
 import urllib.request
 import urllib.error
 from concurrent.futures import ThreadPoolExecutor, as_completed
@@ -18,17 +17,13 @@ TIMEOUT = 15
 def fetch_url(url):
     """Fetch URL content, following redirects."""
     try:
-        ctx = ssl.create_default_context()
-        ctx.check_hostname = False
-        ctx.verify_mode = ssl.CERT_NONE
-        
         req = urllib.request.Request(url, headers={
             'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
             'Accept-Language': 'en-US,en;q=0.9',
         })
         
-        response = urllib.request.urlopen(req, timeout=TIMEOUT, context=ctx)
+        response = urllib.request.urlopen(req, timeout=TIMEOUT)
         final_url = response.geturl()
         content_type = response.headers.get('Content-Type', '')
         
@@ -265,15 +260,20 @@ def analyze_directory(entry):
 
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--workers', type=int, default=10, help='Concurrent HTTP workers (default: 10)')
+    args = parser.parse_args()
+
     with open('directories.json', 'r') as f:
         directories = json.load(f)
-    
+
     print(f"Analyzing {len(directories)} directories...")
-    
+
     results = [None] * len(directories)
     completed = 0
-    
-    with ThreadPoolExecutor(max_workers=50) as executor:
+
+    with ThreadPoolExecutor(max_workers=args.workers) as executor:
         future_to_idx = {}
         for idx, entry in enumerate(directories):
             future = executor.submit(analyze_directory, entry)

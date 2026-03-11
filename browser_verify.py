@@ -12,11 +12,10 @@ import time
 try:
     from playwright.async_api import async_playwright, TimeoutError as PWTimeout
 except ImportError:
-    print("Installing playwright...")
-    import subprocess
-    subprocess.run([sys.executable, "-m", "pip", "install", "playwright"], check=True)
-    subprocess.run([sys.executable, "-m", "playwright", "install", "chromium"], check=True)
-    from playwright.async_api import async_playwright, TimeoutError as PWTimeout
+    sys.exit(
+        "Playwright is not installed.\n"
+        "Run: pip install -r requirements.txt && playwright install chromium"
+    )
 
 # --- Tunable settings ---
 WORKERS = 5               # number of concurrent browser tabs
@@ -331,7 +330,6 @@ async def main():
         context = await browser.new_context(
             user_agent='Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
             viewport={'width': 1280, 'height': 720},
-            ignore_https_errors=True,
         )
         print(f"[startup] Context ready, dispatching {total} tasks...", flush=True)
 
