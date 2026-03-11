@@ -1,6 +1,6 @@
 ---
 name: add-directories
-description: Add new AI/startup directories to directories.json from a URL or pasted text. Parses the list, deduplicates against existing entries, appends new ones, then runs the full classification pipeline (analyze, cleanup, browser verify). Also covers submitting a product to directories and managing the submission lifecycle.
+description: Use when adding new AI/startup directories to directories.json from a URL, pasted text, or GitHub awesome-list. Parses, deduplicates, appends new entries, then runs classify pipeline (analyze, cleanup, browser verify). Does NOT cover submission — use submit-directories skill for that.
 ---
 
 # Add Directories
