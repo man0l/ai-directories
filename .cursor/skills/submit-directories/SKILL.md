@@ -71,7 +71,7 @@ Ask **one at a time** (never dump all at once):
 | 7 | Email | "What email for submissions?" |
 | 8 | Name | "What name on submissions?" (get first + last separately too) |
 | 9 | Username | "Preferred username for sites requiring registration?" |
-| 10 | Password | "Throwaway password for sites requiring registration?" ⚠️ Warn: stored plaintext in `submission_plan.json` |
+| 10 | Password | "Throwaway password for sites requiring registration?" ⚠️ Use a throwaway — never a real password. Set via `SUBMIT_PASSWORD` env var; passwords are stripped from `submission_plan.json` before saving. |
 | 11 | GitHub URL | (optional) |
 | 12 | Twitter/X | (optional) |
 
@@ -154,6 +154,8 @@ Use Playwright MCP (`mcp__playwright` namespace) for sites needing manual intera
 
 ## Phase 7: GitHub PR Submissions
 
+**Requirements:** `gh` CLI installed and authenticated (`gh auth login`). Set `SUBMIT_GITHUB_URL` if you want your repo linked in entries.
+
 For awesome-list directories:
 
 ```bash
@@ -185,7 +187,7 @@ Update `checkpoint.md` after each phase with: counts by status, successful list,
 ## Rules
 
 1. **Never assume** — unclear about product/preferences? Ask.
-2. **Never commit real passwords** — warn user about plaintext storage.
+2. **Never commit real passwords** — use env vars only; passwords are stripped from `submission_plan.json` automatically before each save.
 3. **Report after every phase** — never run pipeline silently.
 4. **Explain every skip** — tell user why a directory was skipped.
 5. **Verify submissions** — check for confirmation or error states.
@@ -217,7 +219,7 @@ Update `checkpoint.md` after each phase with: counts by status, successful list,
 | File | Purpose |
 |------|---------|
 | `directories.json` | Master database (827+ directories) |
-| `submission_plan.json` | Targets with copy, fields, credentials, status |
+| `submission_plan.json` | Targets with copy, fields, status (no credentials stored) |
 | `checkpoint.md` | Progress tracking — source of truth |
 | `analyze_directories.py` | HTTP-level analysis |
 | `cleanup_and_categorize.py` | Triage + browser check list |
