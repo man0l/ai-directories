@@ -14755,5 +14755,27 @@
       "paid_signals"
     ],
     "site_status": "active"
+  },
+  {
+    "categories": [
+      "AI Image Editor",
+      "Design Tools",
+      "Productivity"
+    ],
+    "description": "Free all-in-one AI image editor with 12+ tools for generating, editing, restoring, upscaling, removing backgrounds, and refining images in one workspace.",
+    "is_active": true,
+    "name": "igly.ai",
+    "pricing_type": "freemium",
+    "slug": "igly-ai",
+    "submission_url": "https://www.igly.ai/",
+    "url": "https://www.igly.ai/",
+    "auth_type": "google_only",
+    "captcha_type": "none",
+    "requires_login": true,
+    "pricing_signals": [
+      "free_signals",
+      "freemium_signals"
+    ],
+    "site_status": "active"
   }
 ]
