@@ -1,5 +1,7 @@
 # AI Directories
 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 An AI-agent-powered pipeline to submit your product/startup to **100+ directories** — AI tool listings, startup databases, SaaS aggregators, and general web directories.
 
 Built to work with **AI coding agents** (Claude Code, Cursor, Gemini, Windsurf, etc.) as an interactive submission assistant. The agent collects your product info, generates copy variations, discovers submission forms, auto-submits where possible, and guides you through manual submissions via browser automation.
