@@ -12106,22 +12106,22 @@
     "categories": [
       "General"
     ],
-    "description": "AI Tools Directory with honest reviews",
+    "description": "AI tools directory with honest developer reviews of AI coding and productivity tools.",
     "is_active": true,
     "name": "Intelligent Tools",
     "pricing_type": "free",
     "slug": "intelligent-tools",
-    "submission_url": "https://intelligenttools.co/",
+    "submission_url": "https://intelligenttools.co/submit",
     "url": "https://intelligenttools.co/",
-    "auth_type": "unknown",
-    "captcha_type": "none",
+    "auth_type": "none",
+    "captcha_type": "cloudflare_turnstile",
     "requires_login": false,
     "pricing_signals": [
       "paid_signals",
       "free_signals",
       "freemium_signals"
     ],
-    "site_status": "not_found"
+    "site_status": "active"
   },
   {
     "categories": [
