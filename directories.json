@@ -6561,6 +6561,22 @@
     "categories": [
       "AI Tools"
     ],
+    "description": "AI tools directory and editorial platform for discovering, comparing, and tracking AI products, with daily AI industry news and newsletter updates.",
+    "is_active": true,
+    "name": "AI Tools Radar",
+    "pricing_type": "free",
+    "slug": "ai-tools-radar",
+    "submission_url": "https://aitoolsradar.com",
+    "url": "https://aitoolsradar.com",
+    "auth_type": "unknown",
+    "captcha_type": "unknown",
+    "requires_login": false,
+    "site_status": "active"
+  },
+  {
+    "categories": [
+      "AI Tools"
+    ],
     "description": "",
     "is_active": true,
     "name": "1payment Tools",
