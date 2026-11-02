@@ -962,6 +962,23 @@
   },
   {
     "categories": [
+      "AI Tools"
+    ],
+    "description": "Free directory and finder for AI app-builder and coding tools.",
+    "is_active": true,
+    "name": "Build Stack Tools",
+    "pricing_type": "free",
+    "slug": "build-stack-tools",
+    "submission_url": "https://buildstacktools.com/submit.html",
+    "url": "https://buildstacktools.com",
+    "auth_type": "none",
+    "captcha_type": "none",
+    "requires_login": false,
+    "pricing_signals": [],
+    "site_status": "active"
+  },
+  {
+    "categories": [
       "General"
     ],
     "description": "Submit your product to Built In to reach your target audience.",
