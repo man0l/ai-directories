@@ -4136,6 +4136,26 @@
   },
   {
     "categories": [
+      "General",
+      "AI Tools"
+    ],
+    "description": "Siteefy helps people find and compare the right tools and sites for any task, from AI tools and SaaS products to online services.",
+    "is_active": true,
+    "name": "Siteefy",
+    "pricing_type": "freemium",
+    "slug": "siteefy",
+    "submission_url": "https://siteefy.com/submit-tool?utm_source=man0l",
+    "url": "https://siteefy.com",
+    "auth_type": "google_and_email",
+    "captcha_type": "cloudflare_turnstile",
+    "requires_login": true,
+    "pricing_signals": [
+      "freemium_signals"
+    ],
+    "site_status": "active"
+  },
+  {
+    "categories": [
       "General"
     ],
     "description": "Submit your product to Slant to reach your target audience.",
