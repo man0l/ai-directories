@@ -14777,5 +14777,28 @@
       "freemium_signals"
     ],
     "site_status": "active"
+  },
+  {
+    "categories": [
+      "AI Tools",
+      "Developer Tools",
+      "SaaS"
+    ],
+    "description": "Curated software and AI tools directory with hands-on reviews, category comparisons, free backlink submissions (DR 20+), and a public JSON agent submission API.",
+    "is_active": true,
+    "name": "Awesome Tools",
+    "pricing_type": "freemium",
+    "slug": "awesome-tools",
+    "submission_url": "https://awesome.tools/submit",
+    "url": "https://awesome.tools",
+    "da_score": 31,
+    "auth_type": "none",
+    "captcha_type": "none",
+    "requires_login": false,
+    "pricing_signals": [
+      "free_signals",
+      "freemium_signals"
+    ],
+    "site_status": "active"
   }
 ]
