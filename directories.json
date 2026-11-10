@@ -14777,5 +14777,24 @@
       "freemium_signals"
     ],
     "site_status": "active"
+  },
+  {
+    "categories": [
+      "AI Tools"
+    ],
+    "description": "Human-reviewed directory of AI tools where every listing is test-driven and scored out of 100; free listing publishes once a badge is embedded.",
+    "is_active": true,
+    "name": "launched.tools",
+    "pricing_type": "free",
+    "slug": "launched-tools",
+    "submission_url": "https://launched.tools/submit",
+    "url": "https://launched.tools",
+    "auth_type": "google_and_email",
+    "captcha_type": "cloudflare_turnstile",
+    "requires_login": true,
+    "pricing_signals": [
+      "free_signals"
+    ],
+    "site_status": "active"
   }
 ]
